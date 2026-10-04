@@ -2,12 +2,12 @@
   "projects": [
     {
       "title": "WEB CLOUD",
-      "description": "",
+      "description": "Web Cloud Menarik, Upload File> Server Menerima> Server Mengirim Url",
       "url": "https://files.barz.web.id",
-      "category": "",
+      "category": "TOOLS",
       "icon": "↗",
       "status": "LIVE",
-      "featured": false
+      "featured": true
     }
   ]
 }
