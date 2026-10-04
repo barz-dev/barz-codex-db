@@ -1,1 +1,13 @@
-{}
+{
+  "tracks": [
+    {
+      "id": "track-1791126720753-ihw73",
+      "title": "Kamu Terlalu Baik",
+      "artist": "Dimas M",
+      "url": "https://files.barz.web.id/tAPTpqzf.mp3",
+      "cover": "",
+      "enabled": true,
+      "order": 1
+    }
+  ]
+}
