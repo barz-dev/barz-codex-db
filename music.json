@@ -1,13 +1,1 @@
-{
-  "tracks": [
-    {
-      "id": "track-1",
-      "title": "My Favorite Music",
-      "artist": "Unknown Artist",
-      "url": "",
-      "cover": "",
-      "enabled": true,
-      "order": 1
-    }
-  ]
-}
+{}
