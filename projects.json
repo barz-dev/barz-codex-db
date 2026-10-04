@@ -1,26 +1,13 @@
 {
   "projects": [
     {
-      "id": "web-tools",
-      "title": "WEB TOOLS",
-      "description": "Kumpulan tools web untuk berbagai kebutuhan.",
-      "url": "https://example.com",
-      "category": "Tools",
-      "icon": "🛠️",
-      "tags": ["Tools", "Web"],
-      "featured": true,
-      "order": 1
-    },
-    {
-      "id": "barz-portfolio",
-      "title": "BARZ PORTFOLIO",
-      "description": "Portfolio resmi BARZ CODEX.",
-      "url": "https://barz.web.id",
-      "category": "Website",
-      "icon": "💻",
-      "tags": ["Portfolio"],
-      "featured": true,
-      "order": 2
+      "title": "WEB ",
+      "description": "",
+      "url": "https://",
+      "category": "TOOLS",
+      "icon": "↗",
+      "status": "LIVE",
+      "featured": false
     }
   ]
 }
