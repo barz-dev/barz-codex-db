@@ -1,0 +1,18 @@
+{
+  "visitors": [
+    "10614a81ecd49fa66ec3705bc07d9b43c1148f261d0f1ca70fe9e71d6faff6a9"
+  ],
+  "successCount": 0,
+  "failureCount": 0,
+  "ratings": [],
+  "notice": {
+    "enabled": true,
+    "text": "Selamat datang di BARZ Verification."
+  },
+  "donation": {
+    "enabled": true,
+    "text": "Beri kami donasi jika mau",
+    "qrisImage": "/qris.png"
+  },
+  "updatedAt": "2026-10-12T03:04:48.571Z"
+}
