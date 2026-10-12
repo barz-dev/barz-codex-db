@@ -1,0 +1,17 @@
+
+{
+  "visitors": [],
+  "successCount": 0,
+  "failureCount": 0,
+  "ratings": [],
+  "notice": {
+    "enabled": true,
+    "text": "Selamat datang di BARZ Verification. Pastikan email yang digunakan benar."
+  },
+  "donation": {
+    "enabled": true,
+    "text": "Beri kami donasi jika mau",
+    "qrisImage": "/qris.png"
+  },
+  "updatedAt": null
+}
