@@ -10,7 +10,8 @@
     "24872634fd9a64e441da9fda69e4276fb7591daca4a0fc091cc2d5666da30c04",
     "2ced41c240b26adf18cfd6728252a35c8973fdac3d81ec695d98f85f5e6cbafc",
     "b90b2bb58c7806b12da15c7f53ed16aa3b3da5cc336a2fc939bf86d4ea6bf1df",
-    "46b94dd3cc047b15d4a2f5097581525a8edb9dccd8516c2918093a4ea2f3b7e0"
+    "46b94dd3cc047b15d4a2f5097581525a8edb9dccd8516c2918093a4ea2f3b7e0",
+    "6e4e95e4c55a9d45f63f6ed7d20a2dd430db044a48daca8857e6a47d92ea6e12"
   ],
   "successCount": 0,
   "failureCount": 0,
@@ -24,5 +25,5 @@
     "text": "Beri kami donasi jika mau",
     "qrisImage": "/qris.png"
   },
-  "updatedAt": "2026-10-12T13:39:53.462Z"
+  "updatedAt": "2026-10-13T05:35:35.124Z"
 }
