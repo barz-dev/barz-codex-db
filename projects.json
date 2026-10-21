@@ -1,20 +1,20 @@
 {
   "projects": [
     {
-      "title": "WEB CLOUD",
-      "description": "Web Cloud Menarik, Upload File> Server Menerima> Server Mengirim Url",
-      "url": "https://files.barz.web.id",
-      "category": "TOOLS",
-      "icon": "🌐",
-      "status": "LIVE",
-      "featured": true
-    },
-    {
       "title": "WEB REACTION WHATSAPP ",
       "description": "",
       "url": "https://react.barz.web.id",
       "category": "TOOLS",
       "icon": "⭐",
+      "status": "LIVE",
+      "featured": true
+    },
+    {
+      "title": "WEB CLOUD",
+      "description": "Web Cloud Menarik, Upload File> Server Menerima> Server Mengirim Url",
+      "url": "https://files.barz.web.id",
+      "category": "TOOLS",
+      "icon": "🌐",
       "status": "LIVE",
       "featured": true
     }
