@@ -8,6 +8,51 @@
       "cover": "",
       "enabled": true,
       "order": 1
+    },
+    {
+      "id": "track-1792743004728-szwyy",
+      "title": "Bergema Sampai Selamanya ",
+      "artist": "Nadhif Basalamah",
+      "url": "https://upload.zireku.com/get/aNrzyC.mp3",
+      "cover": "",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "track-1792743179245-r759z",
+      "title": "Teh Hijau",
+      "artist": "Tulus",
+      "url": "https://upload.zireku.com/get/Z7xrqc.mp3",
+      "cover": "",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "track-1792743272119-7c2py",
+      "title": "Sesi Potret",
+      "artist": "enau feat. Ari Lesmana",
+      "url": "https://upload.zireku.com/get/X7HPC6.mp3",
+      "cover": "",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "track-1792743470068-7xcx1",
+      "title": "Night Drive",
+      "artist": "BARZ RADIO",
+      "url": "",
+      "cover": "",
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "id": "track-1792743474773-njgx6",
+      "title": "Night Drive",
+      "artist": "BARZ RADIO",
+      "url": "",
+      "cover": "",
+      "enabled": true,
+      "order": 6
     }
   ]
 }
