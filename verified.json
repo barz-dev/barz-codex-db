@@ -1,11 +1,11 @@
 {
-  "total": 2,
+  "total": 3,
   "list": {
     "https://whatsapp.com/channel/0029Vb8KMS32phHVPVQEXu1c/129": {
-      "count": 2,
-      "total_reacts": 2,
+      "count": 3,
+      "total_reacts": 3,
       "last_emoji": "😹",
-      "last_time": 1793241684134
+      "last_time": 1793241698206
     }
   }
 }
