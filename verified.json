@@ -1,5 +1,5 @@
 {
-  "total": 53,
+  "total": 55,
   "list": {
     "https://whatsapp.com/channel/0029Vb8KMS32phHVPVQEXu1c/129": {
       "count": 4,
@@ -188,10 +188,16 @@
       "last_time": 1793267485823
     },
     "https://whatsapp.com/channel/0029Vb6beopJpe8dR1JLA83I/624": {
-      "count": 9,
-      "total_reacts": 9,
+      "count": 10,
+      "total_reacts": 10,
       "last_emoji": "🙂",
-      "last_time": 1793267834609
+      "last_time": 1793267835181
+    },
+    "https://whatsapp.com/channel/0029VbCb61I4Y9lpkFKm6R3s/1773": {
+      "count": 1,
+      "total_reacts": 1,
+      "last_emoji": "😹",
+      "last_time": 1793268070311
     }
   }
 }
