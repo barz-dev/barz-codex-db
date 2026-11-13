@@ -1,1 +1,7 @@
-[]
+{
+  "admin": {
+    "hash": "$2a$10$eKIlxYiHDhtGq7K3E23VgeDWZltQFIwfRw4awKOEUMjh/X1UzA0uq",
+    "role": "admin",
+    "createdAt": 1794576007722
+  }
+}
