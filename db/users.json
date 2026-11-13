@@ -13,5 +13,10 @@
     "hash": "$2a$10$9i7lLOqn8RDUJkvSv68yNO0ZNcQBmQuscGmILMWxXpUIIRAwK9vQ.",
     "role": "user",
     "createdAt": 1794579871415
+  },
+  "yayayaya": {
+    "hash": "$2a$10$m4MHlz.qhPeucsgdESdHFuQ1VyLHjrmhqluuu7ZWQK9u1JO6GFLXW",
+    "role": "user",
+    "createdAt": 1794607959031
   }
 }
