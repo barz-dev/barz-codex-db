@@ -8,5 +8,10 @@
     "hash": "$2a$10$jtihSJABKxE8oGS8ehEM7eFuVthkGqXuRtdhwWYLj0tEmNjHtlKXG",
     "role": "user",
     "createdAt": 1794576060232
+  },
+  "carya": {
+    "hash": "$2a$10$9i7lLOqn8RDUJkvSv68yNO0ZNcQBmQuscGmILMWxXpUIIRAwK9vQ.",
+    "role": "user",
+    "createdAt": 1794579871415
   }
 }
