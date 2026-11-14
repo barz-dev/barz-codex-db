@@ -20,7 +20,7 @@
     "premium": true,
     "customize": true,
     "noAds": true,
-    "active": false,
+    "active": true,
     "once": false,
     "popular": false,
     "respLimit": 20000,
