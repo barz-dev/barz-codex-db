@@ -1,75 +1,12 @@
 {
   "items": [
     {
-      "id": "log_mwg1o30iw",
-      "ts": 1794638906946,
+      "id": "log_mwg1ofrh2",
+      "ts": 1794638923469,
       "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
-      "category": "system"
-    },
-    {
-      "id": "log_mwg1h36ab",
-      "ts": 1794638580562,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
-      "category": "system"
-    },
-    {
-      "id": "log_mwg1fyhta",
-      "ts": 1794638527841,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
-      "category": "system"
-    },
-    {
-      "id": "log_mwg1eyly5",
-      "ts": 1794638481334,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
-      "category": "system"
-    },
-    {
-      "id": "log_mwg1ektg2",
-      "ts": 1794638463460,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
-      "category": "system"
-    },
-    {
-      "id": "log_mwg1dwvyr",
-      "ts": 1794638432446,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
-      "category": "system"
-    },
-    {
-      "id": "log_mwg1d78x6",
-      "ts": 1794638399217,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
-      "category": "system"
-    },
-    {
-      "id": "log_mwg16irpz",
-      "ts": 1794638087557,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 3099, host 127.0.0.1, githubSync=true",
-      "kind": "ok",
+      "action": "log cleared",
+      "detail": "test data cleanup",
+      "kind": "warn",
       "category": "system"
     }
   ]
