@@ -18,5 +18,25 @@
     "createdAt": 1794640908662,
     "expiresAt": 1794644508662,
     "paidAt": 0
+  },
+  "INVMWG317JUZNB": {
+    "id": "INVMWG317JUZNB",
+    "user": "admin",
+    "planId": "core",
+    "planLabel": "Core",
+    "price": 10000,
+    "code": 0,
+    "amount": 10000,
+    "payAmount": 10000,
+    "provider": "buatqris",
+    "ref": "",
+    "qrImage": "",
+    "qrFallback": "",
+    "payUrl": "",
+    "test": false,
+    "status": "pending",
+    "createdAt": 1794641198970,
+    "expiresAt": 1794642098970,
+    "paidAt": 0
   }
 }
