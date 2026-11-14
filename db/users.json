@@ -53,5 +53,10 @@
     "hash": "$2a$10$8GoOrtontouq9MSYq6GGtOK49s4VA4QiM5hdG6p3uldu9P/MuKjeO",
     "role": "user",
     "createdAt": 1794641383510
+  },
+  "barz-dev": {
+    "hash": "$2a$10$GbCYOp7zjMxhYFLFxxLH3uedkQ8JHvUwi7aiUnrUwUK/.CEaFQQmG",
+    "role": "admin",
+    "createdAt": 1794642424265
   }
 }
