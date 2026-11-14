@@ -48,5 +48,10 @@
     "hash": "$2a$10$hMoXbgB3FvMnG1BhHXRQJeAnqenYs6uYO0eI3NLvNLZdxBWXShWAe",
     "role": "user",
     "createdAt": 1794639591550
+  },
+  "rakku": {
+    "hash": "$2a$10$8GoOrtontouq9MSYq6GGtOK49s4VA4QiM5hdG6p3uldu9P/MuKjeO",
+    "role": "user",
+    "createdAt": 1794641383510
   }
 }
