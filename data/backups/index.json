@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "bk_mwg1emv4b137",
+      "scope": "db",
+      "filename": "bk_mwg1emv4b137.zip",
+      "size": 2355,
+      "sizeHuman": "2.3 KB",
+      "files": 4,
+      "createdAt": 1794638466112,
+      "actor": "admintest",
+      "githubSynced": false,
+      "githubError": ""
+    }
+  ]
+}
