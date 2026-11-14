@@ -28,5 +28,10 @@
     "hash": "$2a$10$zWNOA6czqk/iAXI30mwfuOFaT71pHvn8oa1vhQK/FmzD5cLq5c5TO",
     "role": "user",
     "createdAt": 1794627411352
+  },
+  "jaksss": {
+    "hash": "$2a$10$UFtuI7M7XOu0mG0Z1Dm5VOJrWzuCP8V99LiTXjYDRAxUuPsqbsGoO",
+    "role": "user",
+    "createdAt": 1794632728363
   }
 }
