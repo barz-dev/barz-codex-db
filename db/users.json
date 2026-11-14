@@ -73,5 +73,10 @@
     "hash": "$2a$10$58sZBaBOQzaGSmJlTkKO.OdGkf.pQySgRMMnwecPU0kpIP0RQYTwG",
     "role": "user",
     "createdAt": 1794689386730
+  },
+  "kaha": {
+    "hash": "$2a$10$LSVYtl66CBVavg72GdUgWOxtmRllDjRczKkx69WfbUl5dstzShcbW",
+    "role": "user",
+    "createdAt": 1794694046131
   }
 }
