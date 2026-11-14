@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg6oxg3e",
+      "ts": 1794647344467,
+      "actor": "system",
+      "action": "server start",
+      "detail": "port 26308, host 0.0.0.0, githubSync=true",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwg6f9pob",
       "ts": 1794646893804,
       "actor": "barz-dev",
