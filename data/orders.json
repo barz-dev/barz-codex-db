@@ -1,0 +1,22 @@
+{
+  "INVMWG2UZJQARW": {
+    "id": "INVMWG2UZJQARW",
+    "user": "admin",
+    "planId": "core",
+    "planLabel": "Core",
+    "price": 10000,
+    "code": 78,
+    "amount": 10078,
+    "payAmount": 10078,
+    "provider": "manual",
+    "ref": "",
+    "qrImage": "",
+    "qrFallback": "",
+    "payUrl": "",
+    "test": false,
+    "status": "pending",
+    "createdAt": 1794640908662,
+    "expiresAt": 1794644508662,
+    "paidAt": 0
+  }
+}
