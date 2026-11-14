@@ -58,5 +58,25 @@
     "createdAt": 1794642775794,
     "expiresAt": 1794643675794,
     "paidAt": 0
+  },
+  "INVMWGVKU5FVZK": {
+    "id": "INVMWGVKU5FVZK",
+    "user": "barz-dev",
+    "planId": "core",
+    "planLabel": "Core",
+    "price": 10000,
+    "code": 0,
+    "amount": 10000,
+    "payAmount": 10000,
+    "provider": "buatqris",
+    "ref": "",
+    "qrImage": "",
+    "qrFallback": "",
+    "payUrl": "",
+    "test": false,
+    "status": "pending",
+    "createdAt": 1794689143971,
+    "expiresAt": 1794690043971,
+    "paidAt": 0
   }
 }
