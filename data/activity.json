@@ -1,6 +1,51 @@
 {
   "items": [
     {
+      "id": "log_mwg2tiidh",
+      "ts": 1794640839925,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2tii5w",
+      "ts": 1794640839917,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2tii4u",
+      "ts": 1794640839916,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2tigs9",
+      "ts": 1794640839868,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2tigqi",
+      "ts": 1794640839866,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwg2tedfn",
       "ts": 1794640834563,
       "actor": "admin",
