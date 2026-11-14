@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg4t7gj1",
+      "ts": 1794644184835,
+      "actor": "barz-dev",
+      "action": "ubah plan user",
+      "detail": "target: barz-dev",
+      "kind": "ok",
+      "category": "plan"
+    },
+    {
       "id": "log_mwg4s7l2z",
       "ts": 1794644138342,
       "actor": "admin",
