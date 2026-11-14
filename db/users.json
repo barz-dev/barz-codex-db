@@ -43,5 +43,10 @@
     "hash": "$2a$10$Q9RFLMFPxY9fvO9eDRVaNuy9Cb.ilMEw8SdpqTVhf5P48pEsb7b1S",
     "role": "user",
     "createdAt": 1794639074869
+  },
+  "samuell": {
+    "hash": "$2a$10$hMoXbgB3FvMnG1BhHXRQJeAnqenYs6uYO0eI3NLvNLZdxBWXShWAe",
+    "role": "user",
+    "createdAt": 1794639591550
   }
 }
