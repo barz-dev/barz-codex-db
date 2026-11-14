@@ -522,7 +522,7 @@
     "planStarted": 1794644184835,
     "respUsed": 118,
     "usedPlans": {},
-    "connectedOnce": true,
+    "connectedOnce": false,
     "banned": false,
     "usage": {
       "day": "2026-11-14",
