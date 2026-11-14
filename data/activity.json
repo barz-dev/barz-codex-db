@@ -1,3 +1,13 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "log_mwg2qvw0o",
+      "ts": 1794640717296,
+      "actor": "system",
+      "action": "server start",
+      "detail": "port 26308, host 0.0.0.0, githubSync=true",
+      "kind": "ok",
+      "category": "system"
+    }
+  ]
 }
