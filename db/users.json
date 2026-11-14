@@ -58,5 +58,10 @@
     "hash": "$2a$10$GbCYOp7zjMxhYFLFxxLH3uedkQ8JHvUwi7aiUnrUwUK/.CEaFQQmG",
     "role": "admin",
     "createdAt": 1794642424265
+  },
+  "niko": {
+    "hash": "$2a$10$vf6Cbbaw8j5TjbQgyk4.Ce9YiRiLbV1tQER8P0KnOFxRSGdL5dvDe",
+    "role": "user",
+    "createdAt": 1794670603572
   }
 }
