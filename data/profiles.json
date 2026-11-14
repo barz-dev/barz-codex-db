@@ -765,7 +765,9 @@
   },
   "eko_juniarto": {
     "username": "eko_juniarto",
-    "owners": [],
+    "owners": [
+      "6282122791663"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
     "botName": "barz-dev",
