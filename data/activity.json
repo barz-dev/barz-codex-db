@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg1spuq2",
+      "ts": 1794639123170,
+      "actor": "system",
+      "action": "server start",
+      "detail": "port 5099, host 127.0.0.1, githubSync=true",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwg1ruaz7",
       "ts": 1794639082283,
       "actor": "system",
