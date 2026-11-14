@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg4bv2cx",
+      "ts": 1794643375620,
+      "actor": "admin",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: require is not defined in ES module scope, you can use import instead",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwg4bh5vd",
       "ts": 1794643357603,
       "actor": "admin",
