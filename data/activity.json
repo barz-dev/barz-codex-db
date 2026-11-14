@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg5ymjqz",
+      "ts": 1794646117286,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: Cannot find package 'archiver' imported from /home/container/barz/plugins/tools/getcode.js",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwg5rpug6",
       "ts": 1794645794968,
       "actor": "barz-dev",
