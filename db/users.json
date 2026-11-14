@@ -63,5 +63,10 @@
     "hash": "$2a$10$vf6Cbbaw8j5TjbQgyk4.Ce9YiRiLbV1tQER8P0KnOFxRSGdL5dvDe",
     "role": "user",
     "createdAt": 1794670603572
+  },
+  "nano": {
+    "hash": "$2a$10$L/Xb9lu/LDTOH9lQixVTHefGpiuzp/YMhAg1Rz4Xh3z7U9Fwxz.eG",
+    "role": "user",
+    "createdAt": 1794679956555
   }
 }
