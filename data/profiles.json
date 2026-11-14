@@ -635,9 +635,11 @@
   },
   "raul": {
     "username": "raul",
-    "owners": [],
+    "owners": [
+      "62083186102970"
+    ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "62083186102970",
     "botName": "barz-dev",
     "prefix": "",
     "packname": "",
