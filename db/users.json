@@ -38,5 +38,10 @@
     "hash": "$2a$10$umolttLckjb6bVKJ705iyOQNvbNSgyvpL2tu6Nek33BdhAgjGC9XO",
     "role": "user",
     "createdAt": 1794638217200
+  },
+  "admintest": {
+    "hash": "$2a$10$sVgPDczXgfh7NOPXL2gLfeZx/O.shH9uy7dQJNuf0pVflA5YfjQPC",
+    "role": "admin",
+    "createdAt": 1794638257385
   }
 }
