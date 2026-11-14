@@ -9,7 +9,7 @@
   "qrisImage": "",
   "payNote": "Scan QRIS di atas dengan nominal yang tepat (termasuk kode unik), lalu klik \"Saya sudah bayar\".",
   "orderTtlMin": 60,
-  "webhookSecret": "2db72777a9a9f4091d5e7cb1",
+  "webhookSecret": "d8e8695144e5d3dd15a72155",
   "platformOwners": [
     "6285813973702",
     "6285887047505"
