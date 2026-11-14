@@ -1,60 +1,6 @@
 {
   "items": [
     {
-      "id": "log_mwgli89w5",
-      "ts": 1794672226148,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwgli89rz",
-      "ts": 1794672226143,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwgli89ll",
-      "ts": 1794672226137,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwgli89i5",
-      "ts": 1794672226134,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwgli89e4",
-      "ts": 1794672226130,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwgli87up",
-      "ts": 1794672226074,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
       "id": "log_mwgli7sfz",
       "ts": 1794672225519,
       "actor": "barz-dev",
