@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwgl132ni",
+      "ts": 1794671426255,
+      "actor": "barz-dev",
+      "action": "ubah/hapus plan",
+      "detail": "target: free",
+      "kind": "info",
+      "category": "plan"
+    },
+    {
       "id": "log_mwgjk04we",
       "ts": 1794668949680,
       "actor": "system",
