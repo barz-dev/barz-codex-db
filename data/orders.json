@@ -14,7 +14,7 @@
     "qrFallback": "",
     "payUrl": "",
     "test": false,
-    "status": "verify",
+    "status": "canceled",
     "createdAt": 1794640908662,
     "expiresAt": 1794644508662,
     "paidAt": 0
