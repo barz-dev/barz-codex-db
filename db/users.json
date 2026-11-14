@@ -18,5 +18,10 @@
     "hash": "$2a$10$m4MHlz.qhPeucsgdESdHFuQ1VyLHjrmhqluuu7ZWQK9u1JO6GFLXW",
     "role": "user",
     "createdAt": 1794607959031
+  },
+  "kenji": {
+    "hash": "$2a$10$ByCRRs4FGAe3KExBR56q0enZfazQYgsX5DbG66vc9Hekcd0sapUTy",
+    "role": "user",
+    "createdAt": 1794625860841
   }
 }
