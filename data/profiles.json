@@ -520,13 +520,13 @@
     "plan": "pro",
     "planExpiry": 1797236184835,
     "planStarted": 1794644184835,
-    "respUsed": 93,
+    "respUsed": 94,
     "usedPlans": {},
     "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "2026-11-14",
-      "count": 93
+      "count": 94
     },
     "apiToken": "bw_50ed29889343ab678c837945b2d846f2ac0a",
     "createdAt": 1794642424266,
