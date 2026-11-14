@@ -67,16 +67,16 @@
     "price": 10000,
     "code": 0,
     "amount": 10000,
-    "payAmount": 10000,
+    "payAmount": 10303,
     "provider": "buatqris",
-    "ref": "",
-    "qrImage": "",
-    "qrFallback": "",
-    "payUrl": "",
+    "ref": "VCEA-268V-11DG-15B3",
+    "qrImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcgAAAHIAQMAAADwb+ipAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC+UlEQVR4nO2VwbJbMQxC9f8/TafPgJS0iy7pDE7erWPp6C4Ad6arqyt44a3hY/AOVZvR9mej7pKxJJ947VjsHUF/c8aUDCZ5TqVX9lWdVWx3yXSSHqD6J8ki9Cn5X5CWXmd7deOrUjKa1BPeuA+QF0zOX54lg0hp/m8fTy2ZSZ71u6RZs05w+U+iZBzpG5rck9v8Q08HPKFkIvlQbl4n72faYgivN6ZkMKkueAT/Vb8ss0aZkrEkpbUXLrqTVYefJTPJgdW19Jd9V/RXvEvGkq+gbrjxUWLtGJVKppK8qW/CR5rbB5yINVDJTJJdEtspBskN9cz3+JJ55EcHB9xoyyw72mYpGUi+EjGld7ZsHxDDsVDJQBLM62lXvt2gcT8dKBlNbnxflaCfgFtGd0DJWFKxleTQT5oD8MPpLplLYk5u8fKM0053fPijZCzJpvcTsoQHstMGuUYoGUgyzyOl51t2jZNf2F4ylHziWvBRkySHYr67krmkkwyZQXpzAB2hSZ5YMpT8+PBwT/Y7nz0lI0nqv6Wn/tuQ5RNwS8lYkoe8hfdGPkf0ApzukrHkAw+si3lUcMNwcMlgUuI75CrdQbTE7ksGk4bmtjzc0nPkvqVkJOnAcs+sK/Jizlwlu2QoCTU+DqZXe40XVTKWPD3cqmlmz+mOryuhZBzJ/PLYLcyxKvKM5pVMJeGuy8gg8oe2n8kumUdSYw95OuMM/mFoCr6lZDBp0Qnemc63432mlgwkCY2z63Tjo8v+gNJdMpGU2k9j1TnrEYB/jy1RMpPERlYVKi9LjOouo2QuCd3NgAKs5/lvV9PgV5WMJI8RlGXwCAozRlsXS6aSX6FlouEJpIW5uWQqSYocpPyOeVnHiX3JVFKSs5cucKyVbc/DuahLBpLywQouC+h0sJ7wX8lUkj7gFzg7R1o9e4GXTCcdXsoNBX3UDJmjZDwp7O0dZxpBE6Hsl4wlr8agB/Y7j9U7sF4oGUn6cpbUjvaDfXdrJF9WMpLs6uoKXb8ADoadzbShOfgAAAAASUVORK5CYII=",
+    "qrFallback": "https://app.buatqris.site/poto/qris/VCEA-268V-11DG-15B3.png",
+    "payUrl": "https://app.buatqris.site/trx/VCEA-268V-11DG-15B3",
     "test": false,
     "status": "pending",
-    "createdAt": 1794689143971,
-    "expiresAt": 1794690043971,
+    "createdAt": 1794689144500,
+    "expiresAt": 1794690044500,
     "paidAt": 0
   }
 }
