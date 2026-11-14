@@ -1,6 +1,159 @@
 {
   "items": [
     {
+      "id": "log_mwgli732m",
+      "ts": 1794672224606,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli730u",
+      "ts": 1794672224604,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli72y2",
+      "ts": 1794672224602,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli72xy",
+      "ts": 1794672224601,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli72u7",
+      "ts": 1794672224598,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli72sh",
+      "ts": 1794672224596,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6zfe",
+      "ts": 1794672224475,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6zcd",
+      "ts": 1794672224472,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6z9p",
+      "ts": 1794672224469,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6yrq",
+      "ts": 1794672224451,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6ypd",
+      "ts": 1794672224449,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6ynz",
+      "ts": 1794672224447,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6yme",
+      "ts": 1794672224446,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6yko",
+      "ts": 1794672224444,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6yj3",
+      "ts": 1794672224443,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6ucl",
+      "ts": 1794672224292,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwgli6ttz",
+      "ts": 1794672224273,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwgli4hq8",
       "ts": 1794672221246,
       "actor": "barz-dev",
