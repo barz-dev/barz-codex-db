@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg2spz29",
+      "ts": 1794640802942,
+      "actor": "admin",
+      "action": "ubah/hapus plan",
+      "detail": "target: pro",
+      "kind": "info",
+      "category": "plan"
+    },
+    {
       "id": "log_mwg2sk08i",
       "ts": 1794640795208,
       "actor": "admin",
