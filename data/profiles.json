@@ -721,9 +721,11 @@
   },
   "nizam": {
     "username": "nizam",
-    "owners": [],
+    "owners": [
+      "628980444641"
+    ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "628980444641",
     "botName": "barz-dev",
     "prefix": "",
     "packname": "",
