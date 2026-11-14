@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwgvh8pt9",
+      "ts": 1794688976225,
+      "actor": "barz-dev",
+      "action": "ubah pengaturan situs",
+      "detail": "",
+      "kind": "ok",
+      "category": "site"
+    },
+    {
       "id": "log_mwgow3uxj",
       "ts": 1794677912457,
       "actor": "barz-dev",
