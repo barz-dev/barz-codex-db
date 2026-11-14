@@ -38,5 +38,25 @@
     "createdAt": 1794641199329,
     "expiresAt": 1794642099329,
     "paidAt": 0
+  },
+  "INVMWG3YZU3JDL": {
+    "id": "INVMWG3YZU3JDL",
+    "user": "admin",
+    "planId": "core",
+    "planLabel": "Core",
+    "price": 10000,
+    "code": 0,
+    "amount": 10000,
+    "payAmount": 10000,
+    "provider": "buatqris",
+    "ref": "",
+    "qrImage": "",
+    "qrFallback": "",
+    "payUrl": "",
+    "test": false,
+    "status": "pending",
+    "createdAt": 1794642775275,
+    "expiresAt": 1794643675275,
+    "paidAt": 0
   }
 }
