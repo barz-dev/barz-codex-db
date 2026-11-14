@@ -2,14 +2,14 @@
   "siteName": "BARZ",
   "siteUrl": "https://jadibot.barz.web.id",
   "siteDesc": "Bangun bot WhatsApp tanpa harus jago ngoding. Hubungkan nomor, pilih plan, bot langsung online.",
-  "footerText": "BARZ Jadibot Gratis Cuma Ada Di Sini\n{url}",
+  "footerText": "Jadibot Gratis Cuma Ada Di Sini\n{url}",
   "announcement": "",
   "support": "",
   "communityLink": "https://whatsapp.com/channel/0029Vb8KMS32phHVPVQEXu1c",
   "qrisImage": "",
   "payNote": "Scan QRIS di atas dengan nominal yang tepat (termasuk kode unik), lalu klik \"Saya sudah bayar\".",
   "orderTtlMin": 60,
-  "webhookSecret": "ddadb62160a577e7f879b001",
+  "webhookSecret": "28622795975bc2776d530909",
   "platformOwners": [
     "6285813973702",
     "6285887047505"
