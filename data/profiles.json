@@ -549,10 +549,12 @@
   },
   "niko": {
     "username": "niko",
-    "owners": [],
+    "owners": [
+      "628197642498"
+    ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
-    "botName": "barz-dev",
+    "botNumber": "628197623836",
+    "botName": "AIKO",
     "prefix": "",
     "packname": "",
     "author": "",
