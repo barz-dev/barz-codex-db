@@ -20,7 +20,7 @@
     },
     {
       "title": "JadiBot Web",
-      "description": "*Buat Bot WhatsApp Sendiri*\n\n```Cara buat bot WhatsApp sendiri, tanpa sewa VPS / panel.```\n\nLangkah:\n1. Daftar / Login dulu pake akun BARZ kamu\n2. Setup Bot — isi Nomor Owner, Nama Bot, dan Nomor Bot yang mau dijadiin bot\n   Contoh:\n   Nomor Owner: 62812xxxx\n   Nama Bot: BARZ-BOT\n   Nomor Bot: 62812xxxx\n3. Klik tombol *Pairing / QR*\n4. Pilih metodenya:\n   • Pairing Code — masukin kode yang muncul ke WhatsApp > Perangkat Tertaut > Tautkan Perangkat\n   • Scan QR — scan QR yang muncul pak",
+      "description": "*Buat Bot WhatsApp Sendiri*\n\n```Cara buat bot WhatsApp sendiri, tanpa sewa VPS / panel.```\n\nLangkah:\n1. Daftar / Login dulu pake akun BARZ kamu\n2. Setup Bot — isi Nomor Owner, Nama Bot, dan Nomor Bot yang mau dijadiin bot\n   Contoh:\n   Nomor Owner: 62812xxxx\n   Nama Bot: BARZ-BOT\n   Nomor Bot: 62812xxxx\n3. Klik tombol *Pairing / QR*\n4. Pilih metodenya:\n   • Qr\n   • Pairing Code — masukin kode yang muncul ke WhatsApp > Perangkat Tertaut > Tautkan Perangkat\n5. Ketik .menu Di Grup Atau Private Chat",
       "url": "https://jadibot.barz.web.id",
       "category": "BOT",
       "icon": "🖥️",
