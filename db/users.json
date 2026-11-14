@@ -34,9 +34,9 @@
     "role": "user",
     "createdAt": 1794632728363
   },
-  "admintest": {
-    "hash": "$2a$10$5fg.Xba/Ni2T9FRIy.hSJeKY9S5INfGE80iRWTdFPOt1aDRTJ2HA.",
-    "role": "admin",
-    "createdAt": 1794638087556
+  "jeweng_123": {
+    "hash": "$2a$10$umolttLckjb6bVKJ705iyOQNvbNSgyvpL2tu6Nek33BdhAgjGC9XO",
+    "role": "user",
+    "createdAt": 1794638217200
   }
 }
