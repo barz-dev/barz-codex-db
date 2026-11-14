@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg4edh1k",
+      "ts": 1794643492789,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwg4bv2cx",
       "ts": 1794643375620,
       "actor": "admin",
