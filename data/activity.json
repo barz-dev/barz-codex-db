@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwg315kpn",
+      "ts": 1794641196409,
+      "actor": "admin",
+      "action": "ubah pengaturan situs",
+      "detail": "",
+      "kind": "ok",
+      "category": "site"
+    },
+    {
       "id": "log_mwg3113zt",
       "ts": 1794641190623,
       "actor": "admin",
