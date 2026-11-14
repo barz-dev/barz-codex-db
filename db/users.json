@@ -78,5 +78,10 @@
     "hash": "$2a$10$LSVYtl66CBVavg72GdUgWOxtmRllDjRczKkx69WfbUl5dstzShcbW",
     "role": "user",
     "createdAt": 1794694046131
+  },
+  "nizam": {
+    "hash": "$2a$10$lccfjeNafv4wfTS/amVGg.X.dCyFMOrmSCj/tH6Ul7/J3thrfG8nu",
+    "role": "user",
+    "createdAt": 1794695967404
   }
 }
