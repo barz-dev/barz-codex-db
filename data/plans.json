@@ -16,23 +16,6 @@
     "id": "free",
     "label": "Free"
   },
-  "demo": {
-    "premium": true,
-    "customize": true,
-    "noAds": true,
-    "active": true,
-    "once": true,
-    "popular": false,
-    "respLimit": 0,
-    "dailyLimit": 0,
-    "maxOwners": 2,
-    "days": 1,
-    "price": 0,
-    "desc": "Coba semua fitur selama 24 jam. Sekali per akun.",
-    "sort": 1,
-    "id": "demo",
-    "label": "Demo 24 Jam"
-  },
   "core": {
     "premium": true,
     "customize": true,
