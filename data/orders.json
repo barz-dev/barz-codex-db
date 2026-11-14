@@ -47,16 +47,16 @@
     "price": 10000,
     "code": 0,
     "amount": 10000,
-    "payAmount": 10000,
+    "payAmount": 10313,
     "provider": "buatqris",
-    "ref": "",
-    "qrImage": "",
-    "qrFallback": "",
-    "payUrl": "",
+    "ref": "877Q-266Z-119T-14KX",
+    "qrImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAcgAAAHIAQMAAADwb+ipAAAABlBMVEX///8AAABVwtN+AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAC+0lEQVR4nO2UwZIcMQhD+f+fVipjSTCbHHJUquTt7baBpzkgPNPV1RW88Nbn+/vIoHIv8ipOdclYkm+4/Dv0GFDumymZSCpHI+BTg9t1ZrHVJdPJu6EHZmcb+1fyvyA/J9gVvr/P8f5OyVhyxs2ecVo+oBdMzp/vkkmkev5vf/ZEyUxyl0YW3j4nbP4nUTKPxDXDqN0MDtFTASuUTCTZ+LmX9MvC9sBe5LwDSsaSqto0pRTAic2eS0aSSlND0WcLKzMvt5RMJpl0mKE5N/Z8j3fJWHKUcTWPeGcXSFPFJSPJHy2m3Pph7SCd2ZKScSSrIPZVgBV3qCW98iXzSPZXf3KFR5tm8XTDViiZSLrdZ4z/NvnCzvSXTCR18HSz267AOA/MUS0ZSJ55hqGzg/wxkuWmZCYJPuy90U2BZtljyVxyZuf2VdAAw9cq2B8lc0nt1wurpizkkmOEkpHkaGapQIFt+36Gsz0omUsuZhV5ALIKNkTVkqEk9P9S2iguL9x9yWzyTaseV8oS++gSmJKxJPu/Kc+7AzjvW1IykYSnlWZ4R61jB2iqUTKWBAdZAq/g3NAuIG0vlIwldTq9d9+PJXZfMpbUh50elTzcskzJJCVTSeV1oDfU+DEhn9A1JTNJhQVRSxbAFuwNUDKXVI3azHqpKDb0gge7ZCTJ+VWLZQPOMRUgz9gwJUNJCP7TBxjFvIV/r2QmqT7PCZ88iK1dPruSsSRGTX8aR3N2vj3ec1VLxpHquuf65Vj/XcVbYImSgeTrvbitAc8yiQlMyViSOzbZ5PsKGRmEP1UylvyYQA1fO9gfGMnRL5AVSiaS/o6hR7JqN5L7HuySYeTOqkaaEtB+f4OWKRlNEt/hnmuBBbDSJVNJtRzjh7cxfPKjY8lcUj5QcJUUUHY06CgZTEI9/rT7YdwNvrSgVfJ/IN9gu91n0F8xbcHBLhlNbpAv+uEZYXAkfjihZBbJ95OY1/F9njukzAEvmUv6cvatTD3CvrslyR8rGUl2dXWFrl/86s2dULVgBAAAAABJRU5ErkJggg==",
+    "qrFallback": "https://app.buatqris.site/poto/qris/877Q-266Z-119T-14KX.png",
+    "payUrl": "https://app.buatqris.site/trx/877Q-266Z-119T-14KX",
     "test": false,
     "status": "pending",
-    "createdAt": 1794642775275,
-    "expiresAt": 1794643675275,
+    "createdAt": 1794642775794,
+    "expiresAt": 1794643675794,
     "paidAt": 0
   }
 }
