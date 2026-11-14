@@ -23,5 +23,10 @@
     "hash": "$2a$10$ByCRRs4FGAe3KExBR56q0enZfazQYgsX5DbG66vc9Hekcd0sapUTy",
     "role": "user",
     "createdAt": 1794625860841
+  },
+  "sekty": {
+    "hash": "$2a$10$zWNOA6czqk/iAXI30mwfuOFaT71pHvn8oa1vhQK/FmzD5cLq5c5TO",
+    "role": "user",
+    "createdAt": 1794627411352
   }
 }
