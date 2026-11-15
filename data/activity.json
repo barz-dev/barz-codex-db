@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwi2lytvw",
+      "ts": 1794761420179,
+      "actor": "barz-dev",
+      "action": "hapus backup",
+      "detail": "bk_mwi0p0x5bbd4.zip",
+      "kind": "warn",
+      "category": "backup"
+    },
+    {
       "id": "log_mwi2lvs7y",
       "ts": 1794761416231,
       "actor": "barz-dev",
