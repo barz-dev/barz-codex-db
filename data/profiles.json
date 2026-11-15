@@ -838,7 +838,15 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "6285775200097",
+        "connectedOnce": true,
+        "createdAt": 1794702574080,
+        "label": "Bot 1"
+      }
+    ]
   },
   "rengku": {
     "username": "rengku",
