@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwigoy0au",
+      "ts": 1794785073706,
+      "actor": "ruok",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwi893wqo",
       "ts": 1794770897930,
       "actor": "barz-dev",
