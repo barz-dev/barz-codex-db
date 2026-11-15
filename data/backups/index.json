@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "id": "bk_mwi2mdeic3ca",
-      "scope": "db",
-      "filename": "bk_mwi2mdeic3ca.zip",
-      "size": 274242,
-      "sizeHuman": "267.8 KB",
-      "files": 56,
-      "createdAt": 1794761439067,
-      "actor": "barz-dev",
-      "githubSynced": true,
-      "githubError": ""
-    },
-    {
       "id": "bk_mwg1stj5f800",
       "scope": "full",
       "filename": "bk_mwg1stj5f800.zip",
