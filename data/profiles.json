@@ -814,10 +814,10 @@
     "owners": [
       "6285775200097"
     ],
-    "ownerName": "barz.web.id",
+    "ownerName": "kenji",
     "botNumber": "6285775200097",
     "botName": "luvyu",
-    "prefix": "",
+    "prefix": "#$pin",
     "packname": "",
     "author": "",
     "mode": "public",
@@ -838,7 +838,7 @@
     "createdAt": 1794702574080,
     "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
     "channelId": "120363411722510507@newsletter",
-    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "audioUrl": "",
     "bannedGroups": [],
     "antiprivate": "off",
     "antiprivateText": "",
