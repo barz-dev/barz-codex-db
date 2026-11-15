@@ -742,7 +742,15 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "628980444641",
+        "connectedOnce": true,
+        "createdAt": 1794695967404,
+        "label": "Bot 1"
+      }
+    ]
   },
   "eko_juniarto": {
     "username": "eko_juniarto",
