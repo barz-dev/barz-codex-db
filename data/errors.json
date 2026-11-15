@@ -45,7 +45,8 @@
       "actor": "barz-dev",
       "message": "Slot 0 terputus berulang.",
       "stack": "",
-      "resolved": false
+      "resolved": true,
+      "resolvedAt": 1794770897930
     }
   ]
 }
