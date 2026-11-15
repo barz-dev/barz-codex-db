@@ -98,5 +98,10 @@
     "hash": "$2a$10$m26JoT4aXWc8bqaYqjIkauO.ZIvcPjjFmc4DAVa29SCfEwT9muWqu",
     "role": "user",
     "createdAt": 1794706894184
+  },
+  "zare": {
+    "hash": "$2a$10$GPyfoLLIc/O8sc.cnVMRBOhP1tQDidLXYQfYG4V0yiZJDPni.5A.e",
+    "role": "user",
+    "createdAt": 1794712989405
   }
 }
