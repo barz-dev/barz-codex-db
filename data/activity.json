@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhmk2y35",
+      "ts": 1794734458347,
+      "actor": "barz-dev",
+      "action": "hapus user",
+      "detail": "target: test",
+      "kind": "warn",
+      "category": "user"
+    },
+    {
       "id": "log_mwhmjt1b2",
       "ts": 1794734445503,
       "actor": "barz-dev",
