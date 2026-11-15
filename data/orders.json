@@ -78,5 +78,25 @@
     "createdAt": 1794689144500,
     "expiresAt": 1794690044500,
     "paidAt": 0
+  },
+  "INVMWHMKIXP6OX": {
+    "id": "INVMWHMKIXP6OX",
+    "user": "barz-dev",
+    "planId": "core",
+    "planLabel": "Core",
+    "price": 10000,
+    "code": 0,
+    "amount": 10000,
+    "payAmount": 10000,
+    "provider": "buatqris",
+    "ref": "",
+    "qrImage": "",
+    "qrFallback": "",
+    "payUrl": "",
+    "test": false,
+    "status": "pending",
+    "createdAt": 1794734479069,
+    "expiresAt": 1794735379069,
+    "paidAt": 0
   }
 }
