@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwi2mgzcc",
+      "ts": 1794761443704,
+      "actor": "barz-dev",
+      "action": "download backup",
+      "detail": "bk_mwi2mdeic3ca.zip (267.8 KB, db)",
+      "kind": "info",
+      "category": "backup"
+    },
+    {
       "id": "log_mwi2mfdtj",
       "ts": 1794761441633,
       "actor": "barz-dev",
