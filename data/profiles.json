@@ -476,7 +476,7 @@
     "author": "",
     "mode": "private",
     "autoread": false,
-    "anticall": true,
+    "anticall": false,
     "plan": "pro",
     "planExpiry": 0,
     "planStarted": 1794735235277,
