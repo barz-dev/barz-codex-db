@@ -176,11 +176,11 @@
     "botNumber": "6287869157239",
     "botName": "BARZ_MD",
     "prefix": "",
-    "packname": "",
+    "packname": "Ibas ganteng",
     "author": "",
     "mode": "public",
     "autoread": false,
-    "anticall": true,
+    "anticall": false,
     "plan": "free",
     "planExpiry": 0,
     "planStarted": 0,
@@ -200,7 +200,7 @@
     "bannedGroups": [],
     "antiprivate": "off",
     "antiprivateText": "",
-    "presence": "off",
+    "presence": "recording",
     "welcomeAll": false,
     "welcomeText": "",
     "welcomeImage": "",
@@ -209,7 +209,7 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": true
   },
   "kenji": {
     "username": "kenji",
