@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhn8hmd5",
+      "ts": 1794735597109,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: Cannot find module '/home/container/barz/plugins/custom/_guard.js' imported from /home/container/barz/plugins/custom/crm.ja.js",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwhn7fbsk",
       "ts": 1794735547480,
       "actor": "barz-dev",
