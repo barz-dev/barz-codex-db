@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwi891rtw",
+      "ts": 1794770895161,
+      "actor": "barz-dev",
+      "action": "/errors/err_mwi6nmtdu/resolve",
+      "detail": "target: err_mwi6nmtdu",
+      "kind": "info",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwi891rtx",
+      "ts": 1794770895161,
+      "actor": "barz-dev",
+      "action": "tandai error selesai",
+      "detail": "err_mwi6nmtdu",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwi88ywh6",
       "ts": 1794770891441,
       "actor": "barz-dev",
