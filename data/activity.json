@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwi88ywh6",
+      "ts": 1794770891441,
+      "actor": "barz-dev",
+      "action": "/errors/err_mwi6nksg94/resolve",
+      "detail": "target: err_mwi6nksg94",
+      "kind": "info",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwi88ywgp",
+      "ts": 1794770891440,
+      "actor": "barz-dev",
+      "action": "tandai error selesai",
+      "detail": "err_mwi6nksg94",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwi2pdmie",
       "ts": 1794761579322,
       "actor": "barz-dev",
