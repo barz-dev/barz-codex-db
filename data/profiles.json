@@ -570,7 +570,15 @@
     "byeText": "BYE @user LACUR SEMOGA NEMUIN CC YANG LEBIH BAIK DARI SHOUTSIDE\n\n*TAPI GAADA YANG LEBIH BAIK DARI SHOUTSIDE*😘\n\n#FROM @botname LUTU IMUT😝",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "628197623836",
+        "connectedOnce": false,
+        "createdAt": 1794670603573,
+        "label": "Bot 1"
+      }
+    ]
   },
   "nano": {
     "username": "nano",
