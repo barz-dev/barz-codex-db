@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhmjt1b2",
+      "ts": 1794734445503,
+      "actor": "barz-dev",
+      "action": "blokir user",
+      "detail": "target: hhhhh",
+      "kind": "warn",
+      "category": "user"
+    },
+    {
       "id": "log_mwhkznhn5",
       "ts": 1794731825579,
       "actor": "system",
