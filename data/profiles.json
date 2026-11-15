@@ -941,9 +941,11 @@
   },
   "hhhhh": {
     "username": "hhhhh",
-    "owners": [],
+    "owners": [
+      "8888888888"
+    ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "8888888886",
     "botName": "barz-dev",
     "prefix": "",
     "packname": "",
