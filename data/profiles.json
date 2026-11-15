@@ -855,9 +855,11 @@
   },
   "rengku": {
     "username": "rengku",
-    "owners": [],
+    "owners": [
+      "62895322477079"
+    ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "62895322477079",
     "botName": "barz-dev",
     "prefix": "",
     "packname": "",
