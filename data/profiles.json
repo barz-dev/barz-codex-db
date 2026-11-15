@@ -515,7 +515,15 @@
     "byeText": "Yah, @user Meninggoy",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "6285887047505",
+        "connectedOnce": true,
+        "createdAt": 1794642424266,
+        "label": "Bot 1"
+      }
+    ]
   },
   "niko": {
     "username": "niko",
