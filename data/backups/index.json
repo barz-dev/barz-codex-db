@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "id": "bk_mwi0p0x5bbd4",
-      "scope": "full",
-      "filename": "bk_mwi0p0x5bbd4.zip",
-      "size": 158619249,
-      "sizeHuman": "151.3 MB",
-      "files": 3077,
-      "createdAt": 1794758204935,
-      "actor": "barz-dev",
-      "githubSynced": false,
-      "githubError": "file > 90MB, dilewati"
-    },
-    {
       "id": "bk_mwg1stj5f800",
       "scope": "full",
       "filename": "bk_mwg1stj5f800.zip",
