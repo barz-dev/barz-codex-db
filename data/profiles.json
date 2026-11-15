@@ -167,7 +167,15 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": true
+    "defDetect": true,
+    "botSlots": [
+      {
+        "number": "6287869157239",
+        "connectedOnce": true,
+        "createdAt": 1794638583261,
+        "label": "Bot 1"
+      }
+    ]
   },
   "kenji": {
     "username": "kenji",
