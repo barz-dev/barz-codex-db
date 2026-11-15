@@ -93,5 +93,10 @@
     "hash": "$2a$10$vqndL.drpFk4cBF9VbbK1eqIs9GavClH671ioHB0XdN9p4sM6Aalq",
     "role": "user",
     "createdAt": 1794702574080
+  },
+  "rengku": {
+    "hash": "$2a$10$m26JoT4aXWc8bqaYqjIkauO.ZIvcPjjFmc4DAVa29SCfEwT9muWqu",
+    "role": "user",
+    "createdAt": 1794706894184
   }
 }
