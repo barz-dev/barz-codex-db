@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhzwqnsa",
+      "ts": 1794756883960,
+      "actor": "admin",
+      "action": "/admin/settings (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwhrq58px",
       "ts": 1794743139337,
       "actor": "barz-dev",
