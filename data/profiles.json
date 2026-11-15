@@ -959,7 +959,7 @@
     "respUsed": 0,
     "usedPlans": {},
     "connectedOnce": false,
-    "banned": false,
+    "banned": true,
     "usage": {
       "day": "",
       "count": 0
