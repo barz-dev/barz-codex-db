@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhp2az1o",
+      "ts": 1794738667789,
+      "actor": "system",
+      "action": "server start",
+      "detail": "port 4104, host 0.0.0.0, githubSync=true",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwho3lrnh",
       "ts": 1794737048819,
       "actor": "barz-dev",
