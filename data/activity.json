@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwi0qqeu5",
+      "ts": 1794758283318,
+      "actor": "barz-dev",
+      "action": "download backup",
+      "detail": "bk_mwi0oi1z9e69.zip (151.3 MB, full)",
+      "kind": "info",
+      "category": "backup"
+    },
+    {
       "id": "log_mwi0qn2bj",
       "ts": 1794758278979,
       "actor": "barz-dev",
