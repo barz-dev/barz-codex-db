@@ -81,7 +81,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "carya": {
     "username": "carya",
@@ -123,7 +124,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "yayayaya": {
     "username": "yayayaya",
@@ -217,7 +219,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "sekty": {
     "username": "sekty",
@@ -259,7 +262,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "jaksss": {
     "username": "jaksss",
@@ -301,7 +305,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "jeweng_123": {
     "username": "jeweng_123",
@@ -343,7 +348,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "haha": {
     "username": "haha",
@@ -385,7 +391,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "samuell": {
     "username": "samuell",
@@ -427,7 +434,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "rakku": {
     "username": "rakku",
@@ -469,7 +477,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "barz-dev": {
     "username": "barz-dev",
@@ -620,7 +629,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "raul": {
     "username": "raul",
@@ -664,7 +674,15 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "62083186102970",
+        "connectedOnce": false,
+        "createdAt": 1794689386730,
+        "label": "Bot 1"
+      }
+    ]
   },
   "kaha": {
     "username": "kaha",
@@ -706,7 +724,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "nizam": {
     "username": "nizam",
@@ -802,7 +821,15 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "6282122791663",
+        "connectedOnce": false,
+        "createdAt": 1794698306334,
+        "label": "Bot 1"
+      }
+    ]
   },
   "operaq": {
     "username": "operaq",
@@ -898,7 +925,15 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "62895322477079",
+        "connectedOnce": false,
+        "createdAt": 1794706894185,
+        "label": "Bot 1"
+      }
+    ]
   },
   "zare": {
     "username": "zare",
@@ -940,7 +975,8 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   },
   "hhhhh": {
     "username": "hhhhh",
@@ -984,7 +1020,15 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "8888888886",
+        "connectedOnce": false,
+        "createdAt": 1794715439995,
+        "label": "Bot 1"
+      }
+    ]
   },
   "eeee": {
     "username": "eeee",
@@ -1026,6 +1070,7 @@
     "byeText": "",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false
+    "defDetect": false,
+    "botSlots": []
   }
 }
