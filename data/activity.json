@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhzwr7cb",
+      "ts": 1794756884664,
+      "actor": "admin",
+      "action": "ubah pengaturan situs",
+      "detail": "",
+      "kind": "ok",
+      "category": "site"
+    },
+    {
       "id": "log_mwhzwqnsa",
       "ts": 1794756883960,
       "actor": "admin",
