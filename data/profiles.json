@@ -512,7 +512,7 @@
       "120363429025767778@g.us",
       "120363401738504351@g.us"
     ],
-    "antiprivate": "block",
+    "antiprivate": "ignore",
     "antiprivateText": "",
     "presence": "composing",
     "welcomeAll": true,
@@ -523,7 +523,7 @@
     "byeText": "Yah, @user Meninggoy",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": true
+    "defDetect": false
   },
   "niko": {
     "username": "niko",
