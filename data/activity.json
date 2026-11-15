@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhn7898s",
+      "ts": 1794735538316,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Nama file hanya boleh huruf, angka, titik, - dan _ (mis. cekip.js).",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwhn0qfic",
       "ts": 1794735235278,
       "actor": "barz-dev",
