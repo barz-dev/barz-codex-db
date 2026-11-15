@@ -108,5 +108,11 @@
     "hash": "$2a$10$UQV1jBJ42JstZBnAQl/2luxXXI/EQ1m3Br1L61lnjWaLIf2VUPR5G",
     "role": "user",
     "createdAt": 1794742104204
+  },
+  "ruok": {
+    "hash": "$2a$10$TSlgeKA8cfsu/MAE0.eZmu6HEnhGaJczznWeIzbj5oCY30hbsqX2q",
+    "role": "user",
+    "createdAt": 1794785073705,
+    "signupIp": "182.9.226.200"
   }
 }
