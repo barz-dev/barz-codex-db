@@ -809,10 +809,12 @@
   },
   "operaq": {
     "username": "operaq",
-    "owners": [],
+    "owners": [
+      "6285775200097"
+    ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
-    "botName": "barz-dev",
+    "botNumber": "6285775200097",
+    "botName": "luvyu",
     "prefix": "",
     "packname": "",
     "author": "",
