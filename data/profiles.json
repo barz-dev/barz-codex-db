@@ -169,9 +169,11 @@
   },
   "yayayaya": {
     "username": "yayayaya",
-    "owners": [],
+    "owners": [
+      "6282313505589"
+    ],
     "ownerName": "barz",
-    "botNumber": "",
+    "botNumber": "6287869157239",
     "botName": "BARZ_MD",
     "prefix": "",
     "packname": "",
