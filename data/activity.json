@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwi2pdmie",
+      "ts": 1794761579322,
+      "actor": "barz-dev",
+      "action": "backup full",
+      "detail": "153.8 MB (3285 file) — melebihi 90MB, tidak sync ke GitHub",
+      "kind": "warn",
+      "category": "backup"
+    },
+    {
       "id": "log_mwi2mxzyy",
       "ts": 1794761465758,
       "actor": "barz-dev",
