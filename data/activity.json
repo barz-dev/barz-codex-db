@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhn091z3",
+      "ts": 1794735212759,
+      "actor": "barz-dev",
+      "action": "ubah plan user",
+      "detail": "target: barz-dev",
+      "kind": "ok",
+      "category": "plan"
+    },
+    {
       "id": "log_mwhmq2edg",
       "ts": 1794734737573,
       "actor": "barz-dev",
