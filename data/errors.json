@@ -33,7 +33,8 @@
       "actor": "yayayaya",
       "message": "Slot 0 terputus berulang.",
       "stack": "",
-      "resolved": false
+      "resolved": true,
+      "resolvedAt": 1794770896965
     },
     {
       "id": "err_mwi6n1pcbe",
