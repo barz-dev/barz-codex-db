@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhqyk64i",
+      "ts": 1794741852316,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: Cannot find package 'wa-sticker-formatter' imported from /home/container/barz/plugins/downloader/stickertele.js",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwhp2az1o",
       "ts": 1794738667789,
       "actor": "system",
