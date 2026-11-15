@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwhn7fbsk",
+      "ts": 1794735547480,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: require is not defined in ES module scope, you can use import instead",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwhn7898s",
       "ts": 1794735538316,
       "actor": "barz-dev",
