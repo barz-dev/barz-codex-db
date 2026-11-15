@@ -494,11 +494,7 @@
     "channelId": "120363411722510507@newsletter",
     "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
     "bannedGroups": [
-      "120363430348051276@g.us",
-      "120363412053954331@g.us",
-      "120363405535409650@g.us",
-      "120363429025767778@g.us",
-      "120363401738504351@g.us"
+      "120363430348051276@g.us"
     ],
     "antiprivate": "ignore",
     "antiprivateText": "",
