@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "err_mwi6nmtdu",
+      "ts": 1794768216385,
+      "kind": "bot",
+      "severity": "high",
+      "source": "bot.closed",
+      "actor": "operaq",
+      "message": "Slot 0 terputus berulang.",
+      "stack": "",
+      "resolved": false
+    },
+    {
+      "id": "err_mwi6nksg94",
+      "ts": 1794768213760,
+      "kind": "bot",
+      "severity": "high",
+      "source": "bot.closed",
+      "actor": "nizam",
+      "message": "Slot 0 terputus berulang.",
+      "stack": "",
+      "resolved": true,
+      "resolvedAt": 1794770891440
+    },
+    {
+      "id": "err_mwi6nipty0",
+      "ts": 1794768211073,
+      "kind": "bot",
+      "severity": "high",
+      "source": "bot.closed",
+      "actor": "yayayaya",
+      "message": "Slot 0 terputus berulang.",
+      "stack": "",
+      "resolved": false
+    },
+    {
+      "id": "err_mwi6n1pcbe",
+      "ts": 1794768189024,
+      "kind": "bot",
+      "severity": "high",
+      "source": "bot.closed",
+      "actor": "barz-dev",
+      "message": "Slot 0 terputus berulang.",
+      "stack": "",
+      "resolved": false
+    }
+  ]
+}
