@@ -495,7 +495,10 @@
     "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
     "bannedGroups": [
       "120363420781330849@g.us",
-      "120363413829124803@g.us"
+      "120363413829124803@g.us",
+      "120363432212028555@g.us",
+      "120363411156499090@g.us",
+      "120363415055245525@g.us"
     ],
     "antiprivate": "block",
     "antiprivateText": "",
