@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwi2g96i5",
+      "ts": 1794761153658,
+      "actor": "system",
+      "action": "server start",
+      "detail": "port 4104, host 0.0.0.0, githubSync=true",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwi1z5o8d",
       "ts": 1794760355961,
       "actor": "barz-dev",
