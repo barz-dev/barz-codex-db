@@ -1,6 +1,96 @@
 {
   "items": [
     {
+      "id": "log_mwi2jegvj",
+      "ts": 1794761300479,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jegs3",
+      "ts": 1794761300476,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jeg77",
+      "ts": 1794761300455,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jeg4f",
+      "ts": 1794761300452,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jc5x3",
+      "ts": 1794761297493,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jc3jh",
+      "ts": 1794761297407,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jc26o",
+      "ts": 1794761297358,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jbyds",
+      "ts": 1794761297221,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jbwk5",
+      "ts": 1794761297156,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jbuaw",
+      "ts": 1794761297074,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwi2jay3e",
       "ts": 1794761295915,
       "actor": "barz-dev",
