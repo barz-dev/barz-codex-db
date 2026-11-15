@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "log_mwi2jftba",
+      "ts": 1794761302223,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jfqeh",
+      "ts": 1794761302118,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jfq5f",
+      "ts": 1794761302109,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwi2jfpz5",
+      "ts": 1794761302103,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwi2jegvj",
       "ts": 1794761300479,
       "actor": "barz-dev",
