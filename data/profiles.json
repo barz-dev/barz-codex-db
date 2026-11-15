@@ -540,7 +540,8 @@
     "channelId": "120363411722510507@newsletter",
     "audioUrl": "",
     "bannedGroups": [
-      "120363434341940747@g.us"
+      "120363434341940747@g.us",
+      "120363413260493811@g.us"
     ],
     "antiprivate": "off",
     "antiprivateText": "",
