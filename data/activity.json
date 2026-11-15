@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwi893wqo",
+      "ts": 1794770897930,
+      "actor": "barz-dev",
+      "action": "/errors/err_mwi6n1pcbe/resolve",
+      "detail": "target: err_mwi6n1pcbe",
+      "kind": "info",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwi893wq6",
+      "ts": 1794770897930,
+      "actor": "barz-dev",
+      "action": "tandai error selesai",
+      "detail": "err_mwi6n1pcbe",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwi8935xo",
       "ts": 1794770896965,
       "actor": "barz-dev",
