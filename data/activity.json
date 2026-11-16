@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwjavv1li",
+      "ts": 1794835784937,
+      "actor": "yantogaming",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwjab3ajg",
       "ts": 1794834815851,
       "actor": "userzsrh6mca",
