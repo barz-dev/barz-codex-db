@@ -1632,7 +1632,7 @@
       "6283165948421"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "6288331487747",
+    "botNumber": "628850095012",
     "botName": "villain-bot",
     "prefix": "",
     "packname": "",
@@ -1645,7 +1645,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "2026-11-16",
@@ -1672,7 +1672,7 @@
     "botSlots": [
       {
         "number": "628850095012",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1794836080598,
         "label": "Bot 1"
       }
