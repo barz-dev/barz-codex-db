@@ -1680,10 +1680,12 @@
   },
   "zamxiterz": {
     "username": "zamxiterz",
-    "owners": [],
+    "owners": [
+      "6282373487688"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "ZamXiterz-BOT",
     "prefix": "",
     "packname": "",
     "author": "",
@@ -1719,6 +1721,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "6283869818407",
+        "connectedOnce": false,
+        "createdAt": 1794836553027,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
