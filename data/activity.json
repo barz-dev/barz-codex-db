@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwj7zkmpw",
+      "ts": 1794830919217,
+      "actor": "naufal",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwj75qpdf",
       "ts": 1794829527409,
       "actor": "yuuka",
