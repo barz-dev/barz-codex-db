@@ -120,5 +120,11 @@
     "role": "user",
     "createdAt": 1794823663189,
     "signupIp": "202.65.229.172"
+  },
+  "yuuka": {
+    "hash": "$2a$10$iwgf5MlqMjnLrmI/QI1Rq.9khs/.gmkulPF0cZtQz62TSYrPHXuqC",
+    "role": "user",
+    "createdAt": 1794829527409,
+    "signupIp": "103.135.224.1"
   }
 }
