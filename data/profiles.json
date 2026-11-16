@@ -1170,10 +1170,12 @@
   },
   "yuuka": {
     "username": "yuuka",
-    "owners": [],
+    "owners": [
+      "6287790982864"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "Yuuka-Bot",
     "prefix": "",
     "packname": "",
     "author": "",
@@ -1209,6 +1211,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "62881012244875",
+        "connectedOnce": false,
+        "createdAt": 1794829884812,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
