@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwjbkxthub",
+      "ts": 1794836954933,
+      "kind": "system",
+      "severity": "high",
+      "source": "unhandledRejection",
+      "actor": "system",
+      "message": "rate-overlimit",
+      "stack": "Error: rate-overlimit\n    at assertNodeErrorFree (file:///home/container/node_modules/@adiwajshing/baileys/lib/WABinary/generic-utils.js:46:15)\n    at query (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:127:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async groupMetadata (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/groups.js:19:24)\n    at async file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:479:41\n    at async Promise.all (index 0)\n    at async file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:472:51\n    at async file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/auth-utils.js:220:36",
+      "resolved": false
+    },
+    {
       "id": "err_mwjbeub9en",
       "ts": 1794836670453,
       "kind": "bot",
