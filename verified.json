@@ -1,5 +1,5 @@
 {
-  "total": 1396,
+  "total": 1397,
   "list": {
     "https://whatsapp.com/channel/0029Vb8KMS32phHVPVQEXu1c/129": {
       "count": 4,
@@ -5670,6 +5670,12 @@
       "total_reacts": 9,
       "last_emoji": "🔥,🥳,🥰",
       "last_time": 1794828991395
+    },
+    "https://whatsapp.com/channel/0029Vb8Ahsm2phHR7AkyIx2O/1033": {
+      "count": 1,
+      "total_reacts": 12,
+      "last_emoji": "🔥,❤️,👍,😍",
+      "last_time": 1794829023598
     }
   }
 }
