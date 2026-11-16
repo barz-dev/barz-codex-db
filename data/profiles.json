@@ -1118,10 +1118,12 @@
   },
   "azzamsuki10": {
     "username": "azzamsuki10",
-    "owners": [],
+    "owners": [
+      "6285166812715"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "Zamm-dev",
     "prefix": "",
     "packname": "",
     "author": "",
@@ -1157,6 +1159,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "6285166812715",
+        "connectedOnce": false,
+        "createdAt": 1794823703730,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
