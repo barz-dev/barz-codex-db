@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwj75qpdf",
+      "ts": 1794829527409,
+      "actor": "yuuka",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwj3o1ui7",
       "ts": 1794823663194,
       "actor": "azzamsuki10",
