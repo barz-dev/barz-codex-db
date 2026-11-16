@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwj98q71ix",
+      "ts": 1794833025949,
+      "kind": "bot",
+      "severity": "high",
+      "source": "bot.closed",
+      "actor": "naufal",
+      "message": "Slot 0 terputus berulang.",
+      "stack": "",
+      "resolved": false
+    },
+    {
       "id": "err_mwj88mt2ng",
       "ts": 1794831341942,
       "kind": "bot",
