@@ -1721,13 +1721,6 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": [
-      {
-        "number": "6283869818407",
-        "connectedOnce": false,
-        "createdAt": 1794836553027,
-        "label": "Bot 1"
-      }
-    ]
+    "botSlots": []
   }
 }
