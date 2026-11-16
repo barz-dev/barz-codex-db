@@ -1174,7 +1174,7 @@
       "6287790982864"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "62881012244875",
     "botName": "Yuuka-Bot",
     "prefix": "",
     "packname": "",
@@ -1187,7 +1187,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -1214,7 +1214,7 @@
     "botSlots": [
       {
         "number": "62881012244875",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1794829884812,
         "label": "Bot 1"
       }
