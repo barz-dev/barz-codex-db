@@ -150,5 +150,11 @@
     "role": "user",
     "createdAt": 1794834201533,
     "signupIp": "103.120.173.196"
+  },
+  "user2lbjnwvz": {
+    "hash": "$2a$10$9.aqUg2NgZTU1oszTGQCkeG4dSohkUeNtFcs1LH.FfJT7HKz6ZTdS",
+    "role": "user",
+    "createdAt": 1794834791906,
+    "signupIp": "107.174.30.92"
   }
 }
