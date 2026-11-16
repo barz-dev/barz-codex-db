@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwj8gmuhk",
+      "ts": 1794831715241,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: Invalid regular expression: /^([1-3]?\\s*[a-zA-Z\\s-]+?)(?:\\s+(\\d+)(?:[:\\s]+(\\d+)(?:-(\\d+))?)?)?)?$/: Unmatched ')'",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwj8ep7kk",
       "ts": 1794831624992,
       "actor": "barz-dev",
