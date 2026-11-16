@@ -114,5 +114,11 @@
     "role": "user",
     "createdAt": 1794785073705,
     "signupIp": "182.9.226.200"
+  },
+  "azzamsuki10": {
+    "hash": "$2a$10$jdT5d0YUdHTSEfeKJW9jXOdAPrMBsVuHRSAw//tAxPvJqFcNOwYGi",
+    "role": "user",
+    "createdAt": 1794823663189,
+    "signupIp": "202.65.229.172"
   }
 }
