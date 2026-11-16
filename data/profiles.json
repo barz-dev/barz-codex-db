@@ -1628,10 +1628,12 @@
   },
   "yantogaming": {
     "username": "yantogaming",
-    "owners": [],
+    "owners": [
+      "6283165948421"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "villain-bot",
     "prefix": "",
     "packname": "",
     "author": "",
