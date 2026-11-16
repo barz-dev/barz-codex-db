@@ -1649,7 +1649,7 @@
     "banned": false,
     "usage": {
       "day": "2026-11-16",
-      "count": 7
+      "count": 8
     },
     "apiToken": "bw_df7894a6c8d0312ef3f5c65de9825d004e51",
     "createdAt": 1794835784936,
@@ -1677,5 +1677,48 @@
         "label": "Bot 1"
       }
     ]
+  },
+  "zamxiterz": {
+    "username": "zamxiterz",
+    "owners": [],
+    "ownerName": "barz.web.id",
+    "botNumber": "",
+    "botName": "barz-dev",
+    "prefix": "",
+    "packname": "",
+    "author": "",
+    "mode": "public",
+    "autoread": false,
+    "anticall": true,
+    "plan": "free",
+    "planExpiry": 0,
+    "planStarted": 0,
+    "respUsed": 0,
+    "usedPlans": {},
+    "connectedOnce": false,
+    "banned": false,
+    "usage": {
+      "day": "",
+      "count": 0
+    },
+    "apiToken": "bw_866b7b63fc9a795a68d14f7839b9d72c0e88",
+    "createdAt": 1794836299484,
+    "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
+    "channelId": "120363411722510507@newsletter",
+    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "bannedGroups": [],
+    "antiprivate": "off",
+    "antiprivateText": "",
+    "presence": "off",
+    "welcomeAll": false,
+    "welcomeText": "",
+    "welcomeImage": "",
+    "welcomeCard": true,
+    "byeOn": true,
+    "byeText": "",
+    "byeImage": "",
+    "defAntilink": false,
+    "defDetect": false,
+    "botSlots": []
   }
 }
