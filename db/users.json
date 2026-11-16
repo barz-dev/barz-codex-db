@@ -132,5 +132,11 @@
     "role": "user",
     "createdAt": 1794830919216,
     "signupIp": "2001:448a:70b0:1904:f4:a38:52e9:c52c"
+  },
+  "kucing11": {
+    "hash": "$2a$10$obbKhdIRqQ77FCzN7T6qgOLil/8buMLXGdCXo10CM5eNK42oRZdBm",
+    "role": "user",
+    "createdAt": 1794833924075,
+    "signupIp": "103.120.173.196"
   }
 }
