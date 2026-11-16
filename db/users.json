@@ -180,5 +180,11 @@
     "role": "user",
     "createdAt": 1794834815850,
     "signupIp": "101.36.104.46"
+  },
+  "yantogaming": {
+    "hash": "$2a$10$YPdl72/JVxonPG9AIQF1tO.00dH5XaB60Nhzqu/8Ujb4.zPp/k2g2",
+    "role": "user",
+    "createdAt": 1794835784936,
+    "signupIp": "2400:9800:173:411c:18e8:880d:f684:6152"
   }
 }
