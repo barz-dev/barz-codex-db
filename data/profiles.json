@@ -1122,7 +1122,7 @@
       "6285166812715"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "6285166812715",
     "botName": "Zamm-dev",
     "prefix": "",
     "packname": "",
@@ -1135,7 +1135,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -1159,6 +1159,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "6285166812715",
+        "connectedOnce": true,
+        "createdAt": 1794823703730,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
