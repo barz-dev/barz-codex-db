@@ -186,5 +186,11 @@
     "role": "user",
     "createdAt": 1794835784936,
     "signupIp": "2400:9800:173:411c:18e8:880d:f684:6152"
+  },
+  "zamxiterz": {
+    "hash": "$2a$10$CAnwjZcZymNFFP6jCvZ1Z.La7d6Jkh9gGWi6UScw4aa3dBzOooif.",
+    "role": "user",
+    "createdAt": 1794836299483,
+    "signupIp": "2404:8000:101f:3e59:a16c:481e:4ff9:7519"
   }
 }
