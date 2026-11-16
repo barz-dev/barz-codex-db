@@ -1275,10 +1275,12 @@
   },
   "kucing11": {
     "username": "kucing11",
-    "owners": [],
+    "owners": [
+      "62895639043495"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "barz-jelek",
     "prefix": "",
     "packname": "",
     "author": "",
