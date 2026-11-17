@@ -204,5 +204,11 @@
     "role": "user",
     "createdAt": 1794904034121,
     "signupIp": "2404:8000:101f:1a59:ad67:a50:f400:73b8"
+  },
+  "crashx": {
+    "hash": "$2a$10$O6dvTBppc2cloKNgKjva4.N/9m1w2tDDA8xSlkmM0I1iFBrOYJO/a",
+    "role": "user",
+    "createdAt": 1794911212488,
+    "signupIp": "2400:9800:c:d8cf:18e8:ca51:e0d1:d920"
   }
 }
