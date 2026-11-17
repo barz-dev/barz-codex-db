@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwkjsjbdo",
+      "ts": 1794911212489,
+      "actor": "crashx",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwki4lq0i",
       "ts": 1794908416248,
       "actor": "barz-dev",
