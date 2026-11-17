@@ -234,5 +234,11 @@
     "role": "user",
     "createdAt": 1794919615622,
     "signupIp": "103.73.79.66"
+  },
+  "rajib": {
+    "hash": "$2a$10$KsBMqA2H9jM3MvlBkB/G.OIyOqXzAhhQW8uOFDx4H3NwpxiU.1ggS",
+    "role": "user",
+    "createdAt": 1794923019714,
+    "signupIp": "2404:c0:a301:8736:4eb8:35da:39a0:d79b"
   }
 }
