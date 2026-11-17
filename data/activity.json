@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwkyy6fxo",
+      "ts": 1794936669981,
+      "actor": "system",
+      "action": "server start",
+      "detail": "port 4104, host 0.0.0.0, githubSync=true",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
       "id": "log_mwkxsa6kq",
       "ts": 1794934715276,
       "actor": "system",
