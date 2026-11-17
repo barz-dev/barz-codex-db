@@ -497,13 +497,13 @@
     "plan": "pro",
     "planExpiry": 0,
     "planStarted": 1794735235277,
-    "respUsed": 606,
+    "respUsed": 607,
     "usedPlans": {},
     "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "2026-11-17",
-      "count": 166
+      "count": 167
     },
     "apiToken": "bw_50ed29889343ab678c837945b2d846f2ac0a",
     "createdAt": 1794642424266,
@@ -746,7 +746,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": true,
+    "connectedOnce": false,
     "banned": false,
     "usage": {
       "day": "2026-11-14",
@@ -773,7 +773,7 @@
     "botSlots": [
       {
         "number": "628980444641",
-        "connectedOnce": true,
+        "connectedOnce": false,
         "createdAt": 1794695967404,
         "label": "Bot 1"
       }
