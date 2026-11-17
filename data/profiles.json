@@ -497,13 +497,13 @@
     "plan": "pro",
     "planExpiry": 0,
     "planStarted": 1794735235277,
-    "respUsed": 581,
+    "respUsed": 582,
     "usedPlans": {},
     "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "2026-11-17",
-      "count": 141
+      "count": 142
     },
     "apiToken": "bw_50ed29889343ab678c837945b2d846f2ac0a",
     "createdAt": 1794642424266,
@@ -1191,7 +1191,7 @@
     "banned": false,
     "usage": {
       "day": "2026-11-17",
-      "count": 94
+      "count": 95
     },
     "apiToken": "bw_e233608099e5930cae07dc9557b2f57c9818",
     "createdAt": 1794829527409,
