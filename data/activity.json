@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwkqtltvb",
+      "ts": 1794923019715,
+      "actor": "rajib",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwkqqrsit",
       "ts": 1794922887474,
       "actor": "barz-dev",
