@@ -1708,7 +1708,9 @@
     "bannerUrl": "",
     "channelId": "",
     "audioUrl": "",
-    "bannedGroups": [],
+    "bannedGroups": [
+      "120363434454182822@g.us"
+    ],
     "antiprivate": "ignore",
     "antiprivateText": "",
     "presence": "off",
