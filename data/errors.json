@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwkqrmli6g",
+      "ts": 1794922927398,
+      "kind": "system",
+      "severity": "high",
+      "source": "unhandledRejection",
+      "actor": "system",
+      "message": "Cannot read properties of null (reading 'remoteJid')",
+      "stack": "TypeError: Cannot read properties of null (reading 'remoteJid')\n    at stringifyMessageKey (file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/event-buffer.js:547:45)\n    at append (file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/event-buffer.js:398:32)\n    at Object.emit (file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/event-buffer.js:107:17)\n    at processMessage (file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/process-message.js:279:12)\n    at file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/chats.js:842:13\n    at file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/event-buffer.js:121:42\n    at file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:966:59\n    at file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/make-mutex.js:16:42\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:966:25",
+      "resolved": false
+    },
+    {
       "id": "err_mwkqhju29n",
       "ts": 1794922457258,
       "kind": "bot",
