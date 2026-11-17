@@ -192,5 +192,11 @@
     "role": "user",
     "createdAt": 1794836299483,
     "signupIp": "2404:8000:101f:3e59:a16c:481e:4ff9:7519"
+  },
+  "tian": {
+    "hash": "$2a$10$.PShqCX17RJ9GavOuHUQFeF9YZoiCVqpbOVUqurT47z/n0uQ24Kdi",
+    "role": "user",
+    "createdAt": 1794903241792,
+    "signupIp": "140.213.128.64"
   }
 }
