@@ -210,5 +210,11 @@
     "role": "user",
     "createdAt": 1794911212488,
     "signupIp": "2400:9800:c:d8cf:18e8:ca51:e0d1:d920"
+  },
+  "farhan": {
+    "hash": "$2a$10$n/D/0sH78QNo.8KCIEY6Mu0xmGQUTo6nWeVA8u71MhKYo0NLaatXu",
+    "role": "user",
+    "createdAt": 1794912116136,
+    "signupIp": "114.10.101.224"
   }
 }
