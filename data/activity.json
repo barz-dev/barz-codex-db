@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwkmrgf95",
+      "ts": 1794916200933,
+      "actor": "kelapa",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwkkdv2tg",
       "ts": 1794912207509,
       "actor": "hihihibihib",
