@@ -1861,7 +1861,9 @@
   },
   "farhan": {
     "username": "farhan",
-    "owners": [],
+    "owners": [
+      "8997654502"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
     "botName": "barz-dev",
@@ -1900,6 +1902,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "81279839600",
+        "connectedOnce": false,
+        "createdAt": 1794912175541,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
