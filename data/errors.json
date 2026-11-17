@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwkpx5zwfq",
+      "ts": 1794921506204,
+      "kind": "system",
+      "severity": "high",
+      "source": "unhandledRejection",
+      "actor": "system",
+      "message": "Connection Closed",
+      "stack": "Error: Connection Closed\n    at sendRawMessage (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:50:19)\n    at sendNode (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:69:16)\n    at file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:122:13\n    at new Promise (<anonymous>)\n    at promiseTimeout (file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/generics.js:111:16)\n    at query (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:120:30)\n    at groupQuery (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/groups.js:9:54)\n    at groupMetadata (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/groups.js:19:30)\n    at file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:479:47\n    at async Promise.all (index 0)",
+      "resolved": false
+    },
+    {
       "id": "err_mwkl0iuggf",
       "ts": 1794913264744,
       "kind": "bot",
