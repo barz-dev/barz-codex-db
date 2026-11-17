@@ -198,5 +198,11 @@
     "role": "user",
     "createdAt": 1794903241792,
     "signupIp": "140.213.128.64"
+  },
+  "zzamzzz": {
+    "hash": "$2a$10$v44AmsagWlDn8IexqcnOyuz9dc6uAAzmGVacjSlGZWTkODjVjWBSm",
+    "role": "user",
+    "createdAt": 1794904034121,
+    "signupIp": "2404:8000:101f:1a59:ad67:a50:f400:73b8"
   }
 }
