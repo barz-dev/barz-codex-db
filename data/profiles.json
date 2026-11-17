@@ -499,7 +499,7 @@
     "planStarted": 1794735235277,
     "respUsed": 546,
     "usedPlans": {},
-    "connectedOnce": true,
+    "connectedOnce": false,
     "banned": false,
     "usage": {
       "day": "2026-11-17",
@@ -528,7 +528,7 @@
     "botSlots": [
       {
         "number": "6285887047505",
-        "connectedOnce": true,
+        "connectedOnce": false,
         "createdAt": 1794642424266,
         "label": "Bot 1"
       }
