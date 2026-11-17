@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwkr4napf",
+      "ts": 1794923534833,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwkr4n2my",
+      "ts": 1794923534542,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwkr3x6uu",
       "ts": 1794923500998,
       "actor": "barz-dev",
