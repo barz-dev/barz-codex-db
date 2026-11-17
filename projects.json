@@ -26,6 +26,15 @@
       "icon": "🖥️",
       "status": "BETA",
       "featured": true
+    },
+    {
+      "title": "W",
+      "description": "",
+      "url": "https://",
+      "category": "TOOLS",
+      "icon": "↗",
+      "status": "LIVE",
+      "featured": false
     }
   ]
 }
