@@ -228,5 +228,11 @@
     "role": "user",
     "createdAt": 1794916200932,
     "signupIp": "2404:c0:dc01:9531:991:c260:9302:2b48"
+  },
+  "annisa": {
+    "hash": "$2a$10$kmcHeJ2vfv3of0jfoY.JMO/vfgiuI/vkrcptWTPq29qQDlBTQ8rNG",
+    "role": "user",
+    "createdAt": 1794919615622,
+    "signupIp": "103.73.79.66"
   }
 }
