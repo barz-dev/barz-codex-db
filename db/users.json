@@ -222,5 +222,11 @@
     "role": "user",
     "createdAt": 1794912207507,
     "signupIp": "2402:8780:1085:faed:c0:d49b:277f:e6d4"
+  },
+  "kelapa": {
+    "hash": "$2a$10$qglow22ne2.nrgrfI3jT4uFnytd/kIqrVQErgi4hYMBxD/PVnS2vy",
+    "role": "user",
+    "createdAt": 1794916200932,
+    "signupIp": "2404:c0:dc01:9531:991:c260:9302:2b48"
   }
 }
