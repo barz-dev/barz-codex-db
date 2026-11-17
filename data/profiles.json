@@ -1729,5 +1729,48 @@
         "label": "Bot 1"
       }
     ]
+  },
+  "tian": {
+    "username": "tian",
+    "owners": [],
+    "ownerName": "barz.web.id",
+    "botNumber": "",
+    "botName": "barz-dev",
+    "prefix": "",
+    "packname": "",
+    "author": "",
+    "mode": "public",
+    "autoread": false,
+    "anticall": true,
+    "plan": "free",
+    "planExpiry": 0,
+    "planStarted": 0,
+    "respUsed": 0,
+    "usedPlans": {},
+    "connectedOnce": false,
+    "banned": false,
+    "usage": {
+      "day": "",
+      "count": 0
+    },
+    "apiToken": "bw_720a6d51aa6dfabde0c104b832e893288327",
+    "createdAt": 1794903241792,
+    "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
+    "channelId": "120363411722510507@newsletter",
+    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "bannedGroups": [],
+    "antiprivate": "off",
+    "antiprivateText": "",
+    "presence": "off",
+    "welcomeAll": false,
+    "welcomeText": "",
+    "welcomeImage": "",
+    "welcomeCard": true,
+    "byeOn": true,
+    "byeText": "",
+    "byeImage": "",
+    "defAntilink": false,
+    "defDetect": false,
+    "botSlots": []
   }
 }
