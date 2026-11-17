@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwjyzuokal",
+      "ts": 1794876281876,
+      "kind": "bot",
+      "severity": "high",
+      "source": "bot.closed",
+      "actor": "yantogaming",
+      "message": "Slot 0 terputus berulang.",
+      "stack": "",
+      "resolved": false
+    },
+    {
       "id": "err_mwjhk8cf30",
       "ts": 1794846999615,
       "kind": "bot",
