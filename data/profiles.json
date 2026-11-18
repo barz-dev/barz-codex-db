@@ -86,10 +86,12 @@
   },
   "carya": {
     "username": "carya",
-    "owners": [],
+    "owners": [
+      "6287761543357"
+    ],
     "ownerName": "barz",
     "botNumber": "",
-    "botName": "BARZ_MD",
+    "botName": "CZZY",
     "prefix": "",
     "packname": "",
     "author": "",
