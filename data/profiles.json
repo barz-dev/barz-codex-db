@@ -90,7 +90,7 @@
       "6287761543357"
     ],
     "ownerName": "barz",
-    "botNumber": "",
+    "botNumber": "6287777938775",
     "botName": "CZZY",
     "prefix": "",
     "packname": "",
@@ -103,7 +103,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -127,7 +127,14 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "6287777938775",
+        "connectedOnce": true,
+        "createdAt": 1795007033574,
+        "label": "Bot 1"
+      }
+    ]
   },
   "yayayaya": {
     "username": "yayayaya",
