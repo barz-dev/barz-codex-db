@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwmcmpcow",
+      "ts": 1795020115416,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: Unexpected token ':'",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwmcmm94y",
       "ts": 1795020111400,
       "actor": "barz-dev",
