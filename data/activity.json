@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwnjb842x",
+      "ts": 1795091803346,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwnjanbfj",
       "ts": 1795091776395,
       "actor": "barz-dev",
