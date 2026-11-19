@@ -550,7 +550,7 @@
     ],
     "ownerName": "AIKO.bot.id",
     "botNumber": "628197623836",
-    "botName": "AIKO",
+    "botName": "NIKOv1",
     "prefix": "",
     "packname": "AIKO",
     "author": "AIKO LUTU",
@@ -591,7 +591,7 @@
     "defDetect": false,
     "botSlots": [
       {
-        "number": "628197623836",
+        "number": "6287851690258",
         "connectedOnce": false,
         "createdAt": 1794670603573,
         "label": "Bot 1"
