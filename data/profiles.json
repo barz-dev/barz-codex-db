@@ -588,7 +588,7 @@
     "byeText": "BYE @user LACUR SEMOGA NEMUIN CC YANG LEBIH BAIK DARI SHOUTSIDE\n\n*TAPI GAADA YANG LEBIH BAIK DARI SHOUTSIDE*😘\n\n#FROM @botname LUTU IMUT😝",
     "byeImage": "",
     "defAntilink": false,
-    "defDetect": false,
+    "defDetect": true,
     "botSlots": [
       {
         "number": "6287851690258",
