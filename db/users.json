@@ -252,5 +252,11 @@
     "role": "user",
     "createdAt": 1795166806753,
     "signupIp": "36.75.155.130"
+  },
+  "anjayyy": {
+    "hash": "$2a$10$L4tV7OdvjylvCRzHhLAm0ONpiDalyLJzKZegdw/z3zQJBlkwClh8y",
+    "role": "user",
+    "createdAt": 1795187769882,
+    "signupIp": "157.66.37.22"
   }
 }
