@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mworyt42g",
+      "ts": 1795166806754,
+      "actor": "weykakan",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwojot7ho",
       "ts": 1795152903389,
       "actor": "abid",
