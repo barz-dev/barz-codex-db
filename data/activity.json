@@ -1,6 +1,69 @@
 {
   "items": [
     {
+      "id": "log_mwp2rn7i1",
+      "ts": 1795184948286,
+      "actor": "system",
+      "action": "server start",
+      "detail": "port 4104, host 0.0.0.0, githubSync=true",
+      "kind": "ok",
+      "category": "system"
+    },
+    {
+      "id": "log_mwp2aohnq",
+      "ts": 1795184156795,
+      "actor": "sensei_aja12",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
+      "id": "log_mwoxquddj",
+      "ts": 1795176512833,
+      "actor": "rrputra",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
+      "id": "log_mwox05drg",
+      "ts": 1795175267391,
+      "actor": "barz-dev",
+      "action": "ubah pengaturan situs",
+      "detail": "",
+      "kind": "ok",
+      "category": "site"
+    },
+    {
+      "id": "log_mwouwcdvr",
+      "ts": 1795171730611,
+      "actor": "nadhira",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
+      "id": "log_mwot5bt4u",
+      "ts": 1795168790536,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwot2iqy2",
+      "ts": 1795168659562,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwosm3i5u",
       "ts": 1795167893309,
       "actor": "barz-dev",
