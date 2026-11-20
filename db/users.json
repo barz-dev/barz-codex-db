@@ -246,5 +246,11 @@
     "role": "user",
     "createdAt": 1795152903286,
     "signupIp": "2402:8780:102e:277a:1bd4:8ab:2090:fbab"
+  },
+  "weykakan": {
+    "hash": "$2a$10$7c.4YvbRC3Kpgr9gbJWjRel0/EChjHSl4ZQhbfmTUo3OccXBbqODG",
+    "role": "user",
+    "createdAt": 1795166806753,
+    "signupIp": "36.75.155.130"
   }
 }
