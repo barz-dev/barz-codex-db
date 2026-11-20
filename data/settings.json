@@ -14,7 +14,7 @@
     "6285813973702",
     "6285887047505"
   ],
-  "payProvider": "buatqris",
+  "payProvider": "manual",
   "providers": {
     "qrispw": {
       "baseUrl": "https://qris.pw",
