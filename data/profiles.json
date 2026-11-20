@@ -2146,10 +2146,12 @@
   },
   "weykakan": {
     "username": "weykakan",
-    "owners": [],
+    "owners": [
+      "6285717257439"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "kakan-ganteng",
     "prefix": "",
     "packname": "",
     "author": "",
