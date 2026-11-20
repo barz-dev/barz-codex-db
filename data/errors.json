@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwoshhwcxp",
+      "ts": 1795167678684,
+      "kind": "bot",
+      "severity": "med",
+      "source": "bot.loggedOut",
+      "actor": "barz-dev",
+      "message": "Slot 0 logout dari WhatsApp.",
+      "stack": "",
+      "resolved": false
+    },
+    {
       "id": "err_mwosfhhkhg",
       "ts": 1795167584840,
       "kind": "system",
