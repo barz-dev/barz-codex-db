@@ -506,13 +506,13 @@
     "plan": "pro",
     "planExpiry": 0,
     "planStarted": 1794735235277,
-    "respUsed": 1104,
+    "respUsed": 1172,
     "usedPlans": {},
     "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "2026-11-20",
-      "count": 46
+      "count": 114
     },
     "apiToken": "bw_50ed29889343ab678c837945b2d846f2ac0a",
     "createdAt": 1794642424266,
@@ -546,10 +546,10 @@
   "niko": {
     "username": "niko",
     "owners": [
-      "6287851690258"
+      "628197642498"
     ],
     "ownerName": "NIKO.bot.id",
-    "botNumber": "6287851690258",
+    "botNumber": "",
     "botName": "NIKOv1",
     "prefix": "",
     "packname": "NIKO",
@@ -593,7 +593,7 @@
       {
         "number": "6287851690258",
         "connectedOnce": false,
-        "createdAt": 1794670603573,
+        "createdAt": 1795179054393,
         "label": "Bot 1"
       }
     ]
@@ -2167,7 +2167,7 @@
     "banned": false,
     "usage": {
       "day": "2026-11-20",
-      "count": 8
+      "count": 9
     },
     "apiToken": "bw_814e38cbecc1b0ee9c782f9198c4200afe85",
     "createdAt": 1795166806753,
@@ -2195,5 +2195,143 @@
         "label": "Bot 1"
       }
     ]
+  },
+  "nadhira": {
+    "username": "nadhira",
+    "owners": [],
+    "ownerName": "barz.web.id",
+    "botNumber": "",
+    "botName": "barz-dev",
+    "prefix": "",
+    "packname": "",
+    "author": "",
+    "mode": "public",
+    "autoread": false,
+    "anticall": true,
+    "plan": "free",
+    "planExpiry": 0,
+    "planStarted": 0,
+    "respUsed": 0,
+    "usedPlans": {},
+    "connectedOnce": false,
+    "banned": false,
+    "usage": {
+      "day": "",
+      "count": 0
+    },
+    "apiToken": "bw_ab74154abde35555397616f897464505f44f",
+    "createdAt": 1795171730611,
+    "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
+    "channelId": "120363411722510507@newsletter",
+    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "bannedGroups": [],
+    "antiprivate": "off",
+    "antiprivateText": "",
+    "presence": "off",
+    "welcomeAll": false,
+    "welcomeText": "",
+    "welcomeImage": "",
+    "welcomeCard": true,
+    "byeOn": true,
+    "byeText": "",
+    "byeImage": "",
+    "defAntilink": false,
+    "defDetect": false,
+    "botSlots": []
+  },
+  "rrputra": {
+    "username": "rrputra",
+    "owners": [
+      "6285862808466"
+    ],
+    "ownerName": "barz.web.id",
+    "botNumber": "",
+    "botName": "barz-dev",
+    "prefix": "",
+    "packname": "",
+    "author": "",
+    "mode": "public",
+    "autoread": false,
+    "anticall": true,
+    "plan": "free",
+    "planExpiry": 0,
+    "planStarted": 0,
+    "respUsed": 0,
+    "usedPlans": {},
+    "connectedOnce": false,
+    "banned": false,
+    "usage": {
+      "day": "",
+      "count": 0
+    },
+    "apiToken": "bw_703ad1115a9da68c0f05fcf83a365fd1096a",
+    "createdAt": 1795176512833,
+    "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
+    "channelId": "120363411722510507@newsletter",
+    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "bannedGroups": [],
+    "antiprivate": "off",
+    "antiprivateText": "",
+    "presence": "off",
+    "welcomeAll": false,
+    "welcomeText": "",
+    "welcomeImage": "",
+    "welcomeCard": true,
+    "byeOn": true,
+    "byeText": "",
+    "byeImage": "",
+    "defAntilink": false,
+    "defDetect": false,
+    "botSlots": [
+      {
+        "number": "6285862808466",
+        "connectedOnce": false,
+        "createdAt": 1795176580809,
+        "label": "Bot 1"
+      }
+    ]
+  },
+  "sensei_aja12": {
+    "username": "sensei_aja12",
+    "owners": [],
+    "ownerName": "barz.web.id",
+    "botNumber": "",
+    "botName": "barz-dev",
+    "prefix": "",
+    "packname": "",
+    "author": "",
+    "mode": "public",
+    "autoread": false,
+    "anticall": true,
+    "plan": "free",
+    "planExpiry": 0,
+    "planStarted": 0,
+    "respUsed": 0,
+    "usedPlans": {},
+    "connectedOnce": false,
+    "banned": false,
+    "usage": {
+      "day": "",
+      "count": 0
+    },
+    "apiToken": "bw_4be3eb70dbe396750b6ed614c2aac87c9546",
+    "createdAt": 1795184156795,
+    "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
+    "channelId": "120363411722510507@newsletter",
+    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "bannedGroups": [],
+    "antiprivate": "off",
+    "antiprivateText": "",
+    "presence": "off",
+    "welcomeAll": false,
+    "welcomeText": "",
+    "welcomeImage": "",
+    "welcomeCard": true,
+    "byeOn": true,
+    "byeText": "",
+    "byeImage": "",
+    "defAntilink": false,
+    "defDetect": false,
+    "botSlots": []
   }
 }
