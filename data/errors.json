@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwphlck92y",
+      "ts": 1795209848793,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "fs is not defined",
+      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
+      "resolved": false
+    },
+    {
       "id": "err_mwphex2xek",
       "ts": 1795209548793,
       "kind": "system",
@@ -10989,18 +11000,6 @@
       "stack": "",
       "resolved": true,
       "resolvedAt": 1794770895161
-    },
-    {
-      "id": "err_mwi6nksg94",
-      "ts": 1794768213760,
-      "kind": "bot",
-      "severity": "high",
-      "source": "bot.closed",
-      "actor": "nizam",
-      "message": "Slot 0 terputus berulang.",
-      "stack": "",
-      "resolved": true,
-      "resolvedAt": 1794770891440
     }
   ]
 }
