@@ -2094,7 +2094,9 @@
   },
   "abid": {
     "username": "abid",
-    "owners": [],
+    "owners": [
+      "628957345809"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
     "botName": "barz-dev",
@@ -2133,6 +2135,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "6281345796",
+        "connectedOnce": false,
+        "createdAt": 1795152959665,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
