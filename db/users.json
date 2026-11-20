@@ -240,5 +240,11 @@
     "role": "user",
     "createdAt": 1794923019714,
     "signupIp": "2404:c0:a301:8736:4eb8:35da:39a0:d79b"
+  },
+  "abid": {
+    "hash": "$2a$10$NOTJtoVEoIwYqAbIKCmD8OEux9r2pmJ06NbK5qbM9gWHJCyK2DlIi",
+    "role": "user",
+    "createdAt": 1795152903286,
+    "signupIp": "2402:8780:102e:277a:1bd4:8ab:2090:fbab"
   }
 }
