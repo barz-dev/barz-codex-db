@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwp4g4d7f",
+      "ts": 1795187769883,
+      "actor": "anjayyy",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwp2rn7i1",
       "ts": 1795184948286,
       "actor": "system",
