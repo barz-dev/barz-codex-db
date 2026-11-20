@@ -2150,7 +2150,7 @@
       "6285717257439"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "6285717257439",
     "botName": "kakan-ganteng",
     "prefix": "",
     "packname": "",
@@ -2163,7 +2163,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -2190,7 +2190,7 @@
     "botSlots": [
       {
         "number": "6285717257439",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1795166853440,
         "label": "Bot 1"
       }
