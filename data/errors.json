@@ -1,6 +1,39 @@
 {
   "items": [
     {
+      "id": "err_mwosuqieo4",
+      "ts": 1795168296374,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
+      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+      "resolved": false
+    },
+    {
+      "id": "err_mwosuo5pij",
+      "ts": 1795168293326,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
+      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+      "resolved": false
+    },
+    {
+      "id": "err_mwosunjl7q",
+      "ts": 1795168292529,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
+      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+      "resolved": false
+    },
+    {
       "id": "err_mwosumuy3w",
       "ts": 1795168291642,
       "kind": "system",
