@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "err_mwosu9zm6y",
+      "ts": 1795168274962,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
+      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+      "resolved": false
+    },
+    {
+      "id": "err_mwosu9cp7w",
+      "ts": 1795168274137,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
+      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+      "resolved": false
+    },
+    {
+      "id": "err_mwosu8q6cm",
+      "ts": 1795168273326,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
+      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+      "resolved": false
+    },
+    {
+      "id": "err_mwosu86by9",
+      "ts": 1795168272611,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
+      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
+      "resolved": false
+    },
+    {
       "id": "err_mwosu7q4ze",
       "ts": 1795168272028,
       "kind": "system",
