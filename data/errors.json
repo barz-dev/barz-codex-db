@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwqvlth3o2",
+      "ts": 1795293851511,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "fs is not defined",
+      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
+      "resolved": false
+    },
+    {
       "id": "err_mwqvfdzqjw",
       "ts": 1795293551510,
       "kind": "system",
@@ -10981,17 +10992,6 @@
     {
       "id": "err_mwm8i633r2",
       "ts": 1795013185359,
-      "kind": "system",
-      "severity": "high",
-      "source": "unhandledRejection",
-      "actor": "system",
-      "message": "rate-overlimit",
-      "stack": "Error: rate-overlimit\n    at assertNodeErrorFree (file:///home/container/node_modules/@adiwajshing/baileys/lib/WABinary/generic-utils.js:46:15)\n    at query (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:127:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async groupMetadata (file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/groups.js:19:24)\n    at async file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:479:41\n    at async Promise.all (index 0)\n    at async file:///home/container/node_modules/@adiwajshing/baileys/lib/Socket/messages-send.js:472:51\n    at async file:///home/container/node_modules/@adiwajshing/baileys/lib/Utils/auth-utils.js:220:36",
-      "resolved": false
-    },
-    {
-      "id": "err_mwm8i257yo",
-      "ts": 1795013180251,
       "kind": "system",
       "severity": "high",
       "source": "unhandledRejection",
