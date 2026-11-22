@@ -306,5 +306,11 @@
     "role": "user",
     "createdAt": 1795370937677,
     "signupIp": "103.157.78.222"
+  },
+  "idiot": {
+    "hash": "$2a$10$aTXj3y6Al844KjZ6ddl3p.0FWKFS7PcHegEdvr6y8e8FrudK3OmH2",
+    "role": "user",
+    "createdAt": 1795371031852,
+    "signupIp": "38.253.224.63"
   }
 }
