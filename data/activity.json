@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mws08a5tq",
+      "ts": 1795362084209,
+      "actor": "pisi",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mws07xzqj",
       "ts": 1795362068438,
       "actor": "dhiwjago",
