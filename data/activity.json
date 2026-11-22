@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mws58lul8",
+      "ts": 1795370497437,
+      "actor": "memektes",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mws55unh2",
       "ts": 1795370368877,
       "actor": "barz-dev",
