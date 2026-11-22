@@ -2420,7 +2420,14 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "628850606555",
+        "connectedOnce": false,
+        "createdAt": 1795362159228,
+        "label": "Bot 1"
+      }
+    ]
   },
   "pisi": {
     "username": "pisi",
