@@ -2431,10 +2431,12 @@
   },
   "pisi": {
     "username": "pisi",
-    "owners": [],
+    "owners": [
+      "601127376569"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "nipe",
     "prefix": "",
     "packname": "",
     "author": "",
@@ -2470,6 +2472,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "60113391491",
+        "connectedOnce": false,
+        "createdAt": 1795362234596,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
