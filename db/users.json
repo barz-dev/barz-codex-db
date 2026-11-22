@@ -270,5 +270,11 @@
     "role": "user",
     "createdAt": 1795362084208,
     "signupIp": "115.135.27.199"
+  },
+  "memektes": {
+    "hash": "$2a$10$DcLdFs1h.g1Ym8PeX.Dq4OW126Fpr8N71bG5fBYowHleD257k7Cc2",
+    "role": "user",
+    "createdAt": 1795370497436,
+    "signupIp": "103.157.78.222"
   }
 }
