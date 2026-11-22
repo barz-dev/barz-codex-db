@@ -264,5 +264,11 @@
     "role": "user",
     "createdAt": 1795362068437,
     "signupIp": "182.3.101.0"
+  },
+  "pisi": {
+    "hash": "$2a$10$gRbSUMXF0FVyuKbD7fiWf.9RLOk/vCiKsl3QxyiKToryGLrZIG75u",
+    "role": "user",
+    "createdAt": 1795362084208,
+    "signupIp": "115.135.27.199"
   }
 }
