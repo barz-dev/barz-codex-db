@@ -1,6 +1,42 @@
 {
   "items": [
     {
+      "id": "log_mws5i1jh5",
+      "ts": 1795370937677,
+      "actor": "zaki_dina770_4",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
+      "id": "log_mws5i1j3h",
+      "ts": 1795370937663,
+      "actor": "dina_intan981_3",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
+      "id": "log_mws5i1fwx",
+      "ts": 1795370937548,
+      "actor": "keysa_fauzi215_5",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
+      "id": "log_mws5i1a3a",
+      "ts": 1795370937339,
+      "actor": "maya15x_1",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mws59z48f",
       "ts": 1795370561288,
       "actor": "baseline_01",
