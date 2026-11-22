@@ -2379,10 +2379,12 @@
   },
   "dhiwjago": {
     "username": "dhiwjago",
-    "owners": [],
+    "owners": [
+      "6285163588273"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "apacoba",
     "prefix": "",
     "packname": "",
     "author": "",
