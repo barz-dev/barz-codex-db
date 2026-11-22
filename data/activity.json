@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mws5k27g9",
+      "ts": 1795371031852,
+      "actor": "idiot",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mws5i1jh5",
       "ts": 1795370937677,
       "actor": "zaki_dina770_4",
