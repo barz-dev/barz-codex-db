@@ -258,5 +258,11 @@
     "role": "user",
     "createdAt": 1795187769882,
     "signupIp": "157.66.37.22"
+  },
+  "dhiwjago": {
+    "hash": "$2a$10$01uLbgjLBT8vdXH9yI59luFw8D9lZ/RJYx7HA29hBIlmn/FrQKUQy",
+    "role": "user",
+    "createdAt": 1795362068437,
+    "signupIp": "182.3.101.0"
   }
 }
