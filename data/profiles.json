@@ -2879,10 +2879,12 @@
   },
   "joe": {
     "username": "joe",
-    "owners": [],
+    "owners": [
+      "6285712391147"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "joe",
     "prefix": "",
     "packname": "",
     "author": "",
