@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwtx8q2k0",
+      "ts": 1795477998332,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: The requested module '@whiskeysockets/baileys' does not provide an export named 'generateWAMessageId'",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwtx8oetk",
       "ts": 1795477996181,
       "actor": "barz-dev",
