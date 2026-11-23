@@ -2812,9 +2812,7 @@
     "bannerUrl": "",
     "channelId": "https://whatsapp.com/channel/0029VbDFuaO77qVQo4rKS02W",
     "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
-    "bannedGroups": [
-      "120363431862005574@g.us"
-    ],
+    "bannedGroups": [],
     "antiprivate": "block",
     "antiprivateText": "",
     "presence": "off",
