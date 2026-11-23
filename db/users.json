@@ -318,5 +318,11 @@
     "role": "user",
     "createdAt": 1795418381937,
     "signupIp": "114.10.154.159"
+  },
+  "rauffa": {
+    "hash": "$2a$10$YmjBoFkfLc3eqhAUKAurFeMGf532M1ZHXUj3aPZg38INoBfJ6Js3i",
+    "role": "user",
+    "createdAt": 1795439281048,
+    "signupIp": "114.10.153.201"
   }
 }
