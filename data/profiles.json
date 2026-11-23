@@ -2833,5 +2833,48 @@
         "label": "Bot 1"
       }
     ]
+  },
+  "rauffa": {
+    "username": "rauffa",
+    "owners": [],
+    "ownerName": "barz.web.id",
+    "botNumber": "",
+    "botName": "barz-dev",
+    "prefix": "",
+    "packname": "",
+    "author": "",
+    "mode": "public",
+    "autoread": false,
+    "anticall": true,
+    "plan": "free",
+    "planExpiry": 0,
+    "planStarted": 0,
+    "respUsed": 0,
+    "usedPlans": {},
+    "connectedOnce": false,
+    "banned": false,
+    "usage": {
+      "day": "",
+      "count": 0
+    },
+    "apiToken": "bw_ca291b48bb5c2bfe7cb9c71035912d96bbc0",
+    "createdAt": 1795439281049,
+    "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
+    "channelId": "120363411722510507@newsletter",
+    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "bannedGroups": [],
+    "antiprivate": "off",
+    "antiprivateText": "",
+    "presence": "off",
+    "welcomeAll": false,
+    "welcomeText": "",
+    "welcomeImage": "",
+    "welcomeCard": true,
+    "byeOn": true,
+    "byeText": "",
+    "byeImage": "",
+    "defAntilink": false,
+    "defDetect": false,
+    "botSlots": []
   }
 }
