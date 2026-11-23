@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwsxqxroq",
+      "ts": 1795418381940,
+      "actor": "vannstore",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwsxlm0mt",
       "ts": 1795418133430,
       "actor": "barz-dev",
