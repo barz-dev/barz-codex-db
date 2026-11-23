@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwta6vmhn",
+      "ts": 1795439281049,
+      "actor": "rauffa",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwsz4tylo",
       "ts": 1795420709805,
       "actor": "barz-dev",
