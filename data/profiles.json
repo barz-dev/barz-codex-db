@@ -2799,13 +2799,13 @@
     "plan": "core",
     "planExpiry": 1796715923863,
     "planStarted": 1795419923863,
-    "respUsed": 50,
+    "respUsed": 51,
     "usedPlans": {},
     "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "2026-11-23",
-      "count": 54
+      "count": 55
     },
     "apiToken": "bw_da021cbc2a028e0f89228c9edf1aeaffad1c",
     "createdAt": 1795418381938,
