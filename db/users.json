@@ -324,5 +324,11 @@
     "role": "user",
     "createdAt": 1795439281048,
     "signupIp": "114.10.153.201"
+  },
+  "joe": {
+    "hash": "$2a$10$HTcyEmJb9hQI0UZLBIkMIOeCnQLqeWtpFzIusKAGeFkhIK8WWlnj6",
+    "role": "user",
+    "createdAt": 1795439387451,
+    "signupIp": "114.10.153.201"
   }
 }
