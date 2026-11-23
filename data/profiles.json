@@ -2788,7 +2788,7 @@
       "6283831224540"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "6281263740190",
     "botName": "PANGERAN VANN",
     "prefix": "",
     "packname": "",
@@ -2801,7 +2801,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -2828,7 +2828,7 @@
     "botSlots": [
       {
         "number": "6281263740190",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1795418530469,
         "label": "Bot 1"
       }
