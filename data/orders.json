@@ -98,5 +98,25 @@
     "createdAt": 1794734479903,
     "expiresAt": 1794735379903,
     "paidAt": 0
+  },
+  "INVMWSXVWHS86J": {
+    "id": "INVMWSXVWHS86J",
+    "user": "vannstore",
+    "planId": "core",
+    "planLabel": "Core",
+    "price": 10000,
+    "code": 28,
+    "amount": 10028,
+    "payAmount": 10028,
+    "provider": "manual",
+    "ref": "",
+    "qrImage": "",
+    "qrFallback": "",
+    "payUrl": "",
+    "test": false,
+    "status": "pending",
+    "createdAt": 1795418613568,
+    "expiresAt": 1795422213568,
+    "paidAt": 0
   }
 }
