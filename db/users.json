@@ -312,5 +312,11 @@
     "role": "user",
     "createdAt": 1795371031852,
     "signupIp": "38.253.224.63"
+  },
+  "vannstore": {
+    "hash": "$2a$10$7ZSqlL2GDHa7RyaExIofmenlL10MywSZq7Qb/RqgtUYHkwbqTHYna",
+    "role": "user",
+    "createdAt": 1795418381937,
+    "signupIp": "114.10.154.159"
   }
 }
