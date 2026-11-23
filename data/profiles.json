@@ -2883,7 +2883,7 @@
       "6285712391147"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "6285712391147",
     "botName": "joe",
     "prefix": "",
     "packname": "",
@@ -2896,7 +2896,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -2923,7 +2923,7 @@
     "botSlots": [
       {
         "number": "6285712391147",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1795439462578,
         "label": "Bot 1"
       }
