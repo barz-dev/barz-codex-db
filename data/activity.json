@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwsynzixy",
+      "ts": 1795419923865,
+      "actor": "barz-dev",
+      "action": "setujui order",
+      "detail": "target: INVMWSXVWHS86J",
+      "kind": "ok",
+      "category": "order"
+    },
+    {
       "id": "log_mwsxqxroq",
       "ts": 1795418381940,
       "actor": "vannstore",
