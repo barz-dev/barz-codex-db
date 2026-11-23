@@ -114,9 +114,9 @@
     "qrFallback": "",
     "payUrl": "",
     "test": false,
-    "status": "verify",
+    "status": "paid",
     "createdAt": 1795418613568,
     "expiresAt": 1795422213568,
-    "paidAt": 0
+    "paidAt": 1795419923863
   }
 }
