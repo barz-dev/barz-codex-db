@@ -114,7 +114,7 @@
     "qrFallback": "",
     "payUrl": "",
     "test": false,
-    "status": "pending",
+    "status": "verify",
     "createdAt": 1795418613568,
     "expiresAt": 1795422213568,
     "paidAt": 0
