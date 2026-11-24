@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwu4gy4vlr",
+      "ts": 1795490139343,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "fs is not defined",
+      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
+      "resolved": false
+    },
+    {
       "id": "err_mwu4ainc0",
       "ts": 1795489839336,
       "kind": "system",
@@ -10981,17 +10992,6 @@
     {
       "id": "err_mwosv83ewp",
       "ts": 1795168319162,
-      "kind": "system",
-      "severity": "fatal",
-      "source": "uncaughtException",
-      "actor": "system",
-      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
-      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
-      "resolved": false
-    },
-    {
-      "id": "err_mwosv6yw95",
-      "ts": 1795168317704,
       "kind": "system",
       "severity": "fatal",
       "source": "uncaughtException",
