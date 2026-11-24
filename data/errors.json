@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwu2zqgnp2",
+      "ts": 1795487656631,
+      "kind": "bot",
+      "severity": "med",
+      "source": "bot.loggedOut",
+      "actor": "vannstore",
+      "message": "Slot 0 logout dari WhatsApp.",
+      "stack": "",
+      "resolved": false
+    },
+    {
       "id": "err_mwu2v2e17m",
       "ts": 1795487438809,
       "kind": "system",
@@ -10981,17 +10992,6 @@
     {
       "id": "err_mwosuzswpo",
       "ts": 1795168308416,
-      "kind": "system",
-      "severity": "fatal",
-      "source": "uncaughtException",
-      "actor": "system",
-      "message": "getaddrinfo ENOTFOUND api-xemoz-official.com",
-      "stack": "Error: getaddrinfo ENOTFOUND api-xemoz-official.com\n    at GetAddrInfoReqWrap.onlookupall [as oncomplete] (node:dns:118:26)\n    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)",
-      "resolved": false
-    },
-    {
-      "id": "err_mwosuyyd3d",
-      "ts": 1795168307317,
       "kind": "system",
       "severity": "fatal",
       "source": "uncaughtException",
