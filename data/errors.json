@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwu7op8eid",
+      "ts": 1795495539902,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "fs is not defined",
+      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
+      "resolved": false
+    },
+    {
       "id": "err_mwu7i9r4h6",
       "ts": 1795495239904,
       "kind": "system",
@@ -10985,17 +10996,6 @@
       "severity": "high",
       "source": "bot.closed",
       "actor": "yuuka",
-      "message": "Slot 0 terputus berulang.",
-      "stack": "",
-      "resolved": false
-    },
-    {
-      "id": "err_mwov3m9vdf",
-      "ts": 1795172070019,
-      "kind": "bot",
-      "severity": "high",
-      "source": "bot.closed",
-      "actor": "weykakan",
       "message": "Slot 0 terputus berulang.",
       "stack": "",
       "resolved": false
