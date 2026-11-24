@@ -1,6 +1,50 @@
 {
   "items": [
     {
+      "id": "err_mwubz12a8l",
+      "ts": 1795502740258,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "fs is not defined",
+      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
+      "resolved": false
+    },
+    {
+      "id": "err_mwubslk6ay",
+      "ts": 1795502440230,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "fs is not defined",
+      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
+      "resolved": false
+    },
+    {
+      "id": "err_mwubnhr5l0",
+      "ts": 1795502202017,
+      "kind": "bot",
+      "severity": "high",
+      "source": "bot.closed",
+      "actor": "barz-dev",
+      "message": "Slot 0 terputus berulang.",
+      "stack": "",
+      "resolved": false
+    },
+    {
+      "id": "err_mwubm62saf",
+      "ts": 1795502140228,
+      "kind": "system",
+      "severity": "fatal",
+      "source": "uncaughtException",
+      "actor": "system",
+      "message": "fs is not defined",
+      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
+      "resolved": false
+    },
+    {
       "id": "err_mwubfqlf8v",
       "ts": 1795501840227,
       "kind": "system",
@@ -10948,50 +10992,6 @@
     {
       "id": "err_mwozc4e447",
       "ts": 1795179185212,
-      "kind": "system",
-      "severity": "fatal",
-      "source": "uncaughtException",
-      "actor": "system",
-      "message": "fs is not defined",
-      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-      "resolved": false
-    },
-    {
-      "id": "err_mwoz5owo76",
-      "ts": 1795178885208,
-      "kind": "system",
-      "severity": "fatal",
-      "source": "uncaughtException",
-      "actor": "system",
-      "message": "fs is not defined",
-      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-      "resolved": false
-    },
-    {
-      "id": "err_mwoyz9fajw",
-      "ts": 1795178585206,
-      "kind": "system",
-      "severity": "fatal",
-      "source": "uncaughtException",
-      "actor": "system",
-      "message": "fs is not defined",
-      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-      "resolved": false
-    },
-    {
-      "id": "err_mwoystvihu",
-      "ts": 1795178285118,
-      "kind": "system",
-      "severity": "fatal",
-      "source": "uncaughtException",
-      "actor": "system",
-      "message": "fs is not defined",
-      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-      "resolved": false
-    },
-    {
-      "id": "err_mwoymee5ie",
-      "ts": 1795177985117,
       "kind": "system",
       "severity": "fatal",
       "source": "uncaughtException",
