@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwty3ypov",
+      "ts": 1795479455868,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: Unexpected token '['",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwty3tiwr",
       "ts": 1795479449144,
       "actor": "barz-dev",
