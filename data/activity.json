@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwty5csyk",
+      "ts": 1795479520786,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwty47bhp",
       "ts": 1795479467021,
       "actor": "barz-dev",
