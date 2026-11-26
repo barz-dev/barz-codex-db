@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "err_mwxqko69mg",
+      "ts": 1795708663137,
+      "kind": "bot",
+      "severity": "med",
+      "source": "bot.loggedOut",
+      "actor": "ell",
+      "message": "Slot 0 logout dari WhatsApp.",
+      "stack": "",
+      "resolved": false
+    },
+    {
       "id": "err_mwxpmsqy8d",
       "ts": 1795707082762,
       "kind": "system",
@@ -10981,17 +10992,6 @@
     {
       "id": "err_mwsi6onrjb",
       "ts": 1795392242775,
-      "kind": "system",
-      "severity": "fatal",
-      "source": "uncaughtException",
-      "actor": "system",
-      "message": "fs is not defined",
-      "stack": "ReferenceError: fs is not defined\n    at Timeout.cleanTmp [as _onTimeout] (/home/container/server.js:1375:7)\n    at listOnTimeout (node:internal/timers:573:17)\n    at process.processTimers (node:internal/timers:514:7)",
-      "resolved": false
-    },
-    {
-      "id": "err_mwsi096dmq",
-      "ts": 1795391942773,
       "kind": "system",
       "severity": "fatal",
       "source": "uncaughtException",
