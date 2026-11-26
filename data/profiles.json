@@ -2983,7 +2983,9 @@
   },
   "xavier9899": {
     "username": "xavier9899",
-    "owners": [],
+    "owners": [
+      "3125563753"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
     "botName": "barz-dev",
