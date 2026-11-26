@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwy1dg6p4",
+      "ts": 1795726801969,
+      "actor": "xavier9899",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwxqepjhw",
       "ts": 1795708384973,
       "actor": "ell",
