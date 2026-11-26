@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwxpl4tg1",
+      "ts": 1795707005092,
+      "actor": "barz-dev",
+      "action": "/admin/terminal (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwxpkg3mo",
       "ts": 1795706973058,
       "actor": "barz-dev",
