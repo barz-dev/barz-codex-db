@@ -336,5 +336,11 @@
     "role": "user",
     "createdAt": 1795708384973,
     "signupIp": "2404:c0:a605:9087:11ba:9834:10b7:2e1f"
+  },
+  "xavier9899": {
+    "hash": "$2a$10$uJlCCoMlup3VlLYCysXOM.r.sDLsKjDAge8WMmh3yHjOBheaXaPDK",
+    "role": "user",
+    "createdAt": 1795726801968,
+    "signupIp": "45.195.68.224"
   }
 }
