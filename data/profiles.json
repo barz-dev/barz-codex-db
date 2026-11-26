@@ -2931,10 +2931,12 @@
   },
   "ell": {
     "username": "ell",
-    "owners": [],
+    "owners": [
+      "6283854207735"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "ellz bot",
     "prefix": "",
     "packname": "",
     "author": "",
@@ -2970,6 +2972,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "6283854207735",
+        "connectedOnce": false,
+        "createdAt": 1795708494362,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
