@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwxpdpn7i",
+      "ts": 1795706658835,
+      "actor": "barz-dev",
+      "action": "/admin/ai/save (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwxpdpjf9",
+      "ts": 1795706658699,
+      "actor": "barz-dev",
+      "action": "/admin/ai/config (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwxocrf24",
       "ts": 1795704934862,
       "actor": "barz-dev",
