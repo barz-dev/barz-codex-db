@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwxpdrpto",
+      "ts": 1795706661521,
+      "actor": "barz-dev",
+      "action": "/ai/test (gagal)",
+      "detail": "AI belum aktif atau key belum diset.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwxpdrmxo",
+      "ts": 1795706661417,
+      "actor": "barz-dev",
+      "action": "/admin/ai/config (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwxpdpn7i",
       "ts": 1795706658835,
       "actor": "barz-dev",
