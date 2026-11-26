@@ -2980,5 +2980,48 @@
         "label": "Bot 1"
       }
     ]
+  },
+  "xavier9899": {
+    "username": "xavier9899",
+    "owners": [],
+    "ownerName": "barz.web.id",
+    "botNumber": "",
+    "botName": "barz-dev",
+    "prefix": "",
+    "packname": "",
+    "author": "",
+    "mode": "public",
+    "autoread": false,
+    "anticall": true,
+    "plan": "free",
+    "planExpiry": 0,
+    "planStarted": 0,
+    "respUsed": 0,
+    "usedPlans": {},
+    "connectedOnce": false,
+    "banned": false,
+    "usage": {
+      "day": "",
+      "count": 0
+    },
+    "apiToken": "bw_bda8bb37f0d3c6bc50522beeacfd1b1c0313",
+    "createdAt": 1795726801968,
+    "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
+    "channelId": "120363411722510507@newsletter",
+    "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
+    "bannedGroups": [],
+    "antiprivate": "off",
+    "antiprivateText": "",
+    "presence": "off",
+    "welcomeAll": false,
+    "welcomeText": "",
+    "welcomeImage": "",
+    "welcomeCard": true,
+    "byeOn": true,
+    "byeText": "",
+    "byeImage": "",
+    "defAntilink": false,
+    "defDetect": false,
+    "botSlots": []
   }
 }
