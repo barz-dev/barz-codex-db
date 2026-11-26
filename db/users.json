@@ -330,5 +330,11 @@
     "role": "user",
     "createdAt": 1795439387451,
     "signupIp": "114.10.153.201"
+  },
+  "ell": {
+    "hash": "$2a$10$sMyFqz8I/LhsMO34W/hTJuSnN7hqXxcc2.eR7t0kV6JfBPHS.303S",
+    "role": "user",
+    "createdAt": 1795708384973,
+    "signupIp": "2404:c0:a605:9087:11ba:9834:10b7:2e1f"
   }
 }
