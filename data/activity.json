@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwxoatlpp",
+      "ts": 1795704844381,
+      "actor": "barz-dev",
+      "action": "/exec",
+      "detail": "",
+      "kind": "info",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwxoatlo5",
+      "ts": 1795704844380,
+      "actor": "barz-dev",
+      "action": "exec command",
+      "detail": "ls -la",
+      "kind": "warn",
+      "category": "system"
+    },
+    {
       "id": "log_mwxml0ufn",
       "ts": 1795701961095,
       "actor": "system",
