@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwxpkg3mo",
+      "ts": 1795706973058,
+      "actor": "barz-dev",
+      "action": "/plugins/save (gagal)",
+      "detail": "Plugin gagal dimuat, perubahan dibatalkan: The module '/home/container/node_modules/canvas/build/Release/canvas.node'",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwxpdrpto",
       "ts": 1795706661521,
       "actor": "barz-dev",
