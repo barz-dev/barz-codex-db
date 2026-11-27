@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwzm09eoq",
+      "ts": 1795821924768,
+      "actor": "ditzzx",
+      "action": "register",
+      "detail": "akun baru dibuat",
+      "kind": "ok",
+      "category": "auth"
+    },
+    {
       "id": "log_mwyoiaxr4",
       "ts": 1795765659615,
       "actor": "bot",
@@ -4485,15 +4494,6 @@
     {
       "id": "log_mwg2tldqx",
       "ts": 1794640843646,
-      "actor": "admin",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwg2tldj1",
-      "ts": 1794640843639,
       "actor": "admin",
       "action": "edit plugin",
       "detail": "",
