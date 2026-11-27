@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwy8u3jos",
+      "ts": 1795739336052,
+      "actor": "barz-dev",
+      "action": "/ai/test (gagal)",
+      "detail": "AI belum aktif atau key belum diset.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwy8u3gl4",
+      "ts": 1795739335941,
+      "actor": "barz-dev",
+      "action": "/admin/ai/config (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwy8u1n0j",
       "ts": 1795739333580,
       "actor": "barz-dev",
@@ -4476,24 +4494,6 @@
     {
       "id": "log_mwg2tdpng",
       "ts": 1794640833707,
-      "actor": "admin",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwg2tdph4",
-      "ts": 1794640833701,
-      "actor": "admin",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwg2tdpdt",
-      "ts": 1794640833697,
       "actor": "admin",
       "action": "edit plugin",
       "detail": "",
