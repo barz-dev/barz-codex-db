@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "log_mwy8o7212",
+      "ts": 1795739060666,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwy8o71c5",
+      "ts": 1795739060640,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwy8o59en",
+      "ts": 1795739058338,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwy8o4v03",
       "ts": 1795739057820,
       "actor": "barz-dev",
@@ -4472,24 +4499,6 @@
       "detail": "target: pro",
       "kind": "info",
       "category": "plan"
-    },
-    {
-      "id": "log_mwg2sk08i",
-      "ts": 1794640795208,
-      "actor": "admin",
-      "action": "ubah/hapus plan",
-      "detail": "target: demo",
-      "kind": "info",
-      "category": "plan"
-    },
-    {
-      "id": "log_mwg2qvw0o",
-      "ts": 1794640717296,
-      "actor": "system",
-      "action": "server start",
-      "detail": "port 26308, host 0.0.0.0, githubSync=true",
-      "kind": "ok",
-      "category": "system"
     }
   ]
 }
