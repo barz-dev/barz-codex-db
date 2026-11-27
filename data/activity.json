@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "log_mwy8u1n0j",
+      "ts": 1795739333580,
+      "actor": "barz-dev",
+      "action": "/admin/ai/save (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
+      "id": "log_mwy8u1fec",
+      "ts": 1795739333306,
+      "actor": "barz-dev",
+      "action": "/admin/ai/config (gagal)",
+      "detail": "Endpoint tidak ditemukan.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwy8svczu",
       "ts": 1795739278787,
       "actor": "barz-dev",
@@ -4476,24 +4494,6 @@
     {
       "id": "log_mwg2tdpdt",
       "ts": 1794640833697,
-      "actor": "admin",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwg2t9zir",
-      "ts": 1794640828878,
-      "actor": "admin",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwg2t9zf4",
-      "ts": 1794640828875,
       "actor": "admin",
       "action": "edit plugin",
       "detail": "",
