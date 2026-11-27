@@ -3175,10 +3175,12 @@
   },
   "ditzzx": {
     "username": "ditzzx",
-    "owners": [],
+    "owners": [
+      "83144139620"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "ditzzx",
     "prefix": "",
     "packname": "",
     "author": "",
