@@ -3231,7 +3231,7 @@
       "6283144139620"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "6283144139620",
     "botName": "ditzzx",
     "prefix": "",
     "packname": "",
@@ -3244,7 +3244,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -3271,7 +3271,7 @@
     "botSlots": [
       {
         "number": "6283144139620",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1795822277540,
         "label": "Bot 1"
       }
