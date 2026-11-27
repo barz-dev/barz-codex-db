@@ -3227,10 +3227,12 @@
   },
   "ditzz": {
     "username": "ditzz",
-    "owners": [],
+    "owners": [
+      "6283144139620"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "ditzzx",
     "prefix": "",
     "packname": "",
     "author": "",
@@ -3266,6 +3268,13 @@
     "byeImage": "",
     "defAntilink": false,
     "defDetect": false,
-    "botSlots": []
+    "botSlots": [
+      {
+        "number": "6283144139620",
+        "connectedOnce": false,
+        "createdAt": 1795822277540,
+        "label": "Bot 1"
+      }
+    ]
   }
 }
