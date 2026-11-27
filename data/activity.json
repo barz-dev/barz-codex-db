@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwya7de8a",
+      "ts": 1795741634960,
+      "actor": "barz-dev",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
       "id": "log_mwy8u6i33",
       "ts": 1795739339883,
       "actor": "barz-dev",
@@ -4485,15 +4494,6 @@
     {
       "id": "log_mwg2teda7",
       "ts": 1794640834558,
-      "actor": "admin",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwg2ted0a",
-      "ts": 1794640834548,
       "actor": "admin",
       "action": "edit plugin",
       "detail": "",
