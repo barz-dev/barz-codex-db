@@ -3032,7 +3032,7 @@
       "6282373487688"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "6282373487688",
     "botName": "Bot-ZamXiterz",
     "prefix": "",
     "packname": "",
@@ -3045,7 +3045,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -3072,7 +3072,7 @@
     "botSlots": [
       {
         "number": "6282373487688",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1795764097896,
         "label": "Bot 1"
       }
