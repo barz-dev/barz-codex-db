@@ -495,7 +495,7 @@
       "6285887047505"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "6285813973702",
+    "botNumber": "6285887047505",
     "botName": "barz-dev",
     "prefix": "",
     "packname": "",
@@ -508,7 +508,7 @@
     "planStarted": 1794735235277,
     "respUsed": 1954,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "2026-11-27",
@@ -537,7 +537,7 @@
     "botSlots": [
       {
         "number": "6285887047505",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1794642424266,
         "label": "Bot 1"
       }
