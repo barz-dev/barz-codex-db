@@ -1,6 +1,15 @@
 {
   "items": [
     {
+      "id": "log_mwy8u6i33",
+      "ts": 1795739339883,
+      "actor": "barz-dev",
+      "action": "/ai/chat (gagal)",
+      "detail": "AI belum aktif. Aktifkan di Admin > AI.",
+      "kind": "bad",
+      "category": "admin"
+    },
+    {
       "id": "log_mwy8u5azv",
       "ts": 1795739338331,
       "actor": "barz-dev",
@@ -4485,15 +4494,6 @@
     {
       "id": "log_mwg2ted0a",
       "ts": 1794640834548,
-      "actor": "admin",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwg2tdq3t",
-      "ts": 1794640833723,
       "actor": "admin",
       "action": "edit plugin",
       "detail": "",
