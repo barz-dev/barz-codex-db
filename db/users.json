@@ -342,5 +342,11 @@
     "role": "user",
     "createdAt": 1795726801968,
     "signupIp": "45.195.68.224"
+  },
+  "nzm": {
+    "hash": "$2a$10$6S7rtiw3vTaF/WzAwZoxzuUROAKPClMIxIo7Nv4QpqELtgy18na.6",
+    "role": "user",
+    "createdAt": 1795764037759,
+    "signupIp": "2404:8000:101f:3e59:a16c:481e:4ff9:7519"
   }
 }
