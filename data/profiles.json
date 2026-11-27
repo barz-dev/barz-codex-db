@@ -3084,7 +3084,7 @@
       "6282342716118"
     ],
     "ownerName": "barz.web.id",
-    "botNumber": "",
+    "botNumber": "6282342716118",
     "botName": "Rabot",
     "prefix": "",
     "packname": "",
@@ -3097,7 +3097,7 @@
     "planStarted": 0,
     "respUsed": 0,
     "usedPlans": {},
-    "connectedOnce": false,
+    "connectedOnce": true,
     "banned": false,
     "usage": {
       "day": "",
@@ -3124,7 +3124,7 @@
     "botSlots": [
       {
         "number": "6282342716118",
-        "connectedOnce": false,
+        "connectedOnce": true,
         "createdAt": 1795765455042,
         "label": "Bot 1"
       }
