@@ -1,87 +1,6 @@
 {
   "items": [
     {
-      "id": "log_mwy8o8y83",
-      "ts": 1795739063120,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o8xy6",
-      "ts": 1795739063110,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o8xn4",
-      "ts": 1795739063099,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o8707",
-      "ts": 1795739062140,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o86rj",
-      "ts": 1795739062131,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o85g6",
-      "ts": 1795739062084,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o85dv",
-      "ts": 1795739062081,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o7rje",
-      "ts": 1795739061583,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
-      "id": "log_mwy8o7rg9",
-      "ts": 1795739061580,
-      "actor": "barz-dev",
-      "action": "edit plugin",
-      "detail": "",
-      "kind": "info",
-      "category": "plugin"
-    },
-    {
       "id": "log_mwy8o7itw",
       "ts": 1795739061269,
       "actor": "barz-dev",
@@ -4494,6 +4413,87 @@
     {
       "id": "log_mwg2t9v3w",
       "ts": 1794640828719,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t9v10",
+      "ts": 1794640828717,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t83cr",
+      "ts": 1794640826424,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t836l",
+      "ts": 1794640826418,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t7w7m",
+      "ts": 1794640826167,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t7w5c",
+      "ts": 1794640826165,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t6oyh",
+      "ts": 1794640824610,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t6okq",
+      "ts": 1794640824596,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t4gk0",
+      "ts": 1794640821716,
+      "actor": "admin",
+      "action": "edit plugin",
+      "detail": "",
+      "kind": "info",
+      "category": "plugin"
+    },
+    {
+      "id": "log_mwg2t40c2",
+      "ts": 1794640821132,
       "actor": "admin",
       "action": "edit plugin",
       "detail": "",
