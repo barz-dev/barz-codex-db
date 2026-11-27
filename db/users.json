@@ -354,5 +354,11 @@
     "role": "user",
     "createdAt": 1795765402530,
     "signupIp": "182.3.138.150"
+  },
+  "bot": {
+    "hash": "$2a$10$C/ffoeeVQrAZYjNQJyW4E.XJI4R8Fm1EQbSt6pHnDwsUDnAw9tDXG",
+    "role": "user",
+    "createdAt": 1795765659614,
+    "signupIp": "2001:448a:1020:53:b7d2:9ae7:5751:23a5"
   }
 }
