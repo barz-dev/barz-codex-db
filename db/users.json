@@ -366,5 +366,11 @@
     "role": "user",
     "createdAt": 1795821924767,
     "signupIp": "103.126.173.19"
+  },
+  "ditzz": {
+    "hash": "$2a$10$hBOFuyRl89GeK2RcLaUH3utNo61dMClcyqFgLXuSUrzQMH0x1Wn7u",
+    "role": "user",
+    "createdAt": 1795822250313,
+    "signupIp": "103.126.173.19"
   }
 }
