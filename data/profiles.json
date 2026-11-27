@@ -3080,10 +3080,12 @@
   },
   "rabot": {
     "username": "rabot",
-    "owners": [],
+    "owners": [
+      "6282342716118"
+    ],
     "ownerName": "barz.web.id",
     "botNumber": "",
-    "botName": "barz-dev",
+    "botName": "Rabot",
     "prefix": "",
     "packname": "",
     "author": "",
