@@ -3307,9 +3307,7 @@
     "bannerUrl": "https://files.catbox.moe/0ufr7k.jpg",
     "channelId": "120363411722510507@newsletter",
     "audioUrl": "https://files.catbox.moe/h0t3gl.mp3",
-    "bannedGroups": [
-      "120363432517894100@g.us"
-    ],
+    "bannedGroups": [],
     "antiprivate": "off",
     "antiprivateText": "",
     "presence": "off",
