@@ -372,5 +372,11 @@
     "role": "user",
     "createdAt": 1795822250313,
     "signupIp": "103.126.173.19"
+  },
+  "fadhil": {
+    "hash": "$2a$10$L/Vb8TlK6pe4D9S3H/CYsOfFVAwqaHqMZJkKC6BzwnWJW7l6f27iW",
+    "role": "user",
+    "createdAt": 1795885258707,
+    "signupIp": "2404:c0:b603:45ab:f5a4:a6a:266b:31b4"
   }
 }
